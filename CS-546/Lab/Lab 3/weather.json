@@ -1,0 +1,3994 @@
+[
+   {
+      "zip": "01803",
+      "temp": 39.04,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21136",
+      "temp": 33.93,
+      "pressure": 1015,
+      "humidity": 77,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "07866",
+      "temp": 34.57,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11784",
+      "temp": 31.89,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "10002",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "06776",
+      "temp": 33.3,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "19050",
+      "temp": 32.14,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "19064",
+      "temp": 32.14,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "02132",
+      "temp": 36.88,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11520",
+      "temp": 36.1,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01089",
+      "temp": 31.6,
+      "pressure": 1014,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 37.94
+   },
+   {
+      "zip": "17011",
+      "temp": 34.48,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "14127",
+      "temp": 46.53,
+      "pressure": 1010,
+      "humidity": 100,
+      "temp_min": 44.6,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "15010",
+      "temp": 53.22,
+      "pressure": 1012,
+      "humidity": 96,
+      "temp_min": 51.8,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "11530",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07039",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11372",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "07501",
+      "temp": 34.52,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11570",
+      "temp": 36.12,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20743",
+      "temp": 34.7,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02186",
+      "temp": 36.88,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11758",
+      "temp": 36.32,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11967",
+      "temp": 31.57,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.98
+   },
+   {
+      "zip": "20747",
+      "temp": 34.27,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "08360",
+      "temp": 32.92,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 32,
+      "temp_max": 34.34
+   },
+   {
+      "zip": "11727",
+      "temp": 31.51,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.98
+   },
+   {
+      "zip": "01915",
+      "temp": 39.38,
+      "pressure": 1013,
+      "humidity": 79,
+      "temp_min": 33.08,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "13440",
+      "temp": 47.46,
+      "pressure": 1010,
+      "humidity": 92,
+      "temp_min": 44.06,
+      "temp_max": 50
+   },
+   {
+      "zip": "04106",
+      "temp": 31.96,
+      "pressure": 1013,
+      "humidity": 95,
+      "temp_min": 26.6,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "06484",
+      "temp": 33.3,
+      "pressure": 1015,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "07076",
+      "temp": 36.7,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "21075",
+      "temp": 35.24,
+      "pressure": 1016,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07030",
+      "temp": 35.64,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01906",
+      "temp": 36.82,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "10952",
+      "temp": 34.59,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02478",
+      "temp": 37.51,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07470",
+      "temp": 34.63,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10541",
+      "temp": 36.34,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "14150",
+      "temp": 47.03,
+      "pressure": 1008,
+      "humidity": 100,
+      "temp_min": 44.96,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "11772",
+      "temp": 32.22,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "06614",
+      "temp": 33.31,
+      "pressure": 1015,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "06360",
+      "temp": 34.68,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "17543",
+      "temp": 33.75,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 32,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "17331",
+      "temp": 38.08,
+      "pressure": 1014,
+      "humidity": 70,
+      "temp_min": 33.08,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "02893",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08043",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07652",
+      "temp": 34.16,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11418",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11741",
+      "temp": 32.22,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "06877",
+      "temp": 33.73,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11757",
+      "temp": 36.7,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "01876",
+      "temp": 36.66,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "19061",
+      "temp": 31.6,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "17050",
+      "temp": 34.48,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "17109",
+      "temp": 34.48,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "21060",
+      "temp": 34.36,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "11720",
+      "temp": 32.79,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 41
+   },
+   {
+      "zip": "08205",
+      "temp": 31.19,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "11420",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11795",
+      "temp": 35.13,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11379",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "01821",
+      "temp": 37.22,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "19380",
+      "temp": 32.36,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "18944",
+      "temp": 32.45,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "11801",
+      "temp": 35.31,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "06611",
+      "temp": 32.88,
+      "pressure": 1015,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "11001",
+      "temp": 35.96,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "19082",
+      "temp": 32.27,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "06705",
+      "temp": 33.94,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "21122",
+      "temp": 34.36,
+      "pressure": 1015,
+      "humidity": 81,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "11725",
+      "temp": 34.25,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "15650",
+      "temp": 51.01,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 44.6,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "04240",
+      "temp": 30.07,
+      "pressure": 1011,
+      "humidity": 96,
+      "temp_min": 26.6,
+      "temp_max": 33.98
+   },
+   {
+      "zip": "18940",
+      "temp": 31.82,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07840",
+      "temp": 34.12,
+      "pressure": 1015,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "20901",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08096",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "01757",
+      "temp": 36.66,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "18301",
+      "temp": 35.04,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "01930",
+      "temp": 39.38,
+      "pressure": 1013,
+      "humidity": 79,
+      "temp_min": 33.08,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11413",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07002",
+      "temp": 35.56,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01845",
+      "temp": 36.61,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "15101",
+      "temp": 53.64,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "11552",
+      "temp": 35.69,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "19026",
+      "temp": 32.14,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "08701",
+      "temp": 35.37,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 41
+   },
+   {
+      "zip": "08742",
+      "temp": 36.21,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 42.98
+   },
+   {
+      "zip": "11432",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "14534",
+      "temp": 51.98,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "06770",
+      "temp": 33.96,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "17042",
+      "temp": 34.29,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "11377",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "20854",
+      "temp": 34.59,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "02453",
+      "temp": 37.51,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07040",
+      "temp": 35.67,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11412",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12550",
+      "temp": 31.73,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 35.6
+   },
+   {
+      "zip": "08807",
+      "temp": 34.97,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "06340",
+      "temp": 34.09,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "06880",
+      "temp": 33.62,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11731",
+      "temp": 34.25,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08648",
+      "temp": 33.03,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.04,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "07111",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07055",
+      "temp": 34.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07202",
+      "temp": 35.49,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "21093",
+      "temp": 33.93,
+      "pressure": 1016,
+      "humidity": 77,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "16001",
+      "temp": 53.02,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.08,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "02472",
+      "temp": 37.51,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "16335",
+      "temp": 51.22,
+      "pressure": 1012,
+      "humidity": 96,
+      "temp_min": 50,
+      "temp_max": 51.98
+   },
+   {
+      "zip": "02130",
+      "temp": 37.54,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "12590",
+      "temp": 33.12,
+      "pressure": 1014,
+      "humidity": 96,
+      "temp_min": 28.04,
+      "temp_max": 39.92
+   },
+   {
+      "zip": "11050",
+      "temp": 34.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07042",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01887",
+      "temp": 38.79,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21030",
+      "temp": 33.93,
+      "pressure": 1016,
+      "humidity": 77,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "19335",
+      "temp": 32.81,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 30.2,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "08087",
+      "temp": 30.79,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "20748",
+      "temp": 34.3,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "07030",
+      "temp": 35.64,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20877",
+      "temp": 34.61,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "18974",
+      "temp": 32.56,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "01085",
+      "temp": 31.6,
+      "pressure": 1014,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 37.94
+   },
+   {
+      "zip": "08302",
+      "temp": 33.12,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 32,
+      "temp_max": 34.34
+   },
+   {
+      "zip": "07050",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08844",
+      "temp": 33.91,
+      "pressure": 1015,
+      "humidity": 81,
+      "temp_min": 28.04,
+      "temp_max": 42.98
+   },
+   {
+      "zip": "19401",
+      "temp": 32.67,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "21042",
+      "temp": 35.08,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07631",
+      "temp": 34.57,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08873",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11373",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "02760",
+      "temp": 37.94,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "15044",
+      "temp": 53.65,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "01201",
+      "temp": 38.25,
+      "pressure": 1012,
+      "humidity": 92,
+      "temp_min": 30.02,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "01545",
+      "temp": 36.03,
+      "pressure": 1013,
+      "humidity": 75,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "12065",
+      "temp": 41.07,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 30.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "13501",
+      "temp": 44.06,
+      "pressure": 1010,
+      "humidity": 92,
+      "temp_min": 44.06,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "16506",
+      "temp": 50.94,
+      "pressure": 1011,
+      "humidity": 92,
+      "temp_min": 50,
+      "temp_max": 51.98
+   },
+   {
+      "zip": "19406",
+      "temp": 32.99,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "10701",
+      "temp": 34.92,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08037",
+      "temp": 31.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "19063",
+      "temp": 32.16,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "08012",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "11776",
+      "temp": 31.53,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07726",
+      "temp": 35.38,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20170",
+      "temp": 34.93,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "14086",
+      "temp": 47.01,
+      "pressure": 1008,
+      "humidity": 100,
+      "temp_min": 44.96,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "06033",
+      "temp": 33.8,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "15206",
+      "temp": 53.73,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "18102",
+      "temp": 33.37,
+      "pressure": 1015,
+      "humidity": 74,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "14450",
+      "temp": 51.98,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "07011",
+      "temp": 34.52,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07753",
+      "temp": 37.65,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "10550",
+      "temp": 35.2,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12601",
+      "temp": 30.85,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 35.6
+   },
+   {
+      "zip": "11580",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "06851",
+      "temp": 34.7,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "17036",
+      "temp": 34.27,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "14424",
+      "temp": 51.94,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "11704",
+      "temp": 36.7,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "06492",
+      "temp": 33.15,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "08054",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "11104",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "11419",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11590",
+      "temp": 35.31,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10573",
+      "temp": 35.62,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08822",
+      "temp": 32.56,
+      "pressure": 1015,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "21014",
+      "temp": 34.16,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "07026",
+      "temp": 34.99,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01760",
+      "temp": 37.08,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "17268",
+      "temp": 39.83,
+      "pressure": 1014,
+      "humidity": 70,
+      "temp_min": 33.08,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "12866",
+      "temp": 43.21,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 39.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "18901",
+      "temp": 32.05,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07666",
+      "temp": 34.57,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12804",
+      "temp": 44.13,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 41,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "08330",
+      "temp": 31.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "19464",
+      "temp": 33.13,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "07047",
+      "temp": 35.22,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02895",
+      "temp": 36.16,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "03053",
+      "temp": 36.14,
+      "pressure": 1013,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06410",
+      "temp": 33.28,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20782",
+      "temp": 34.29,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "02446",
+      "temp": 37.54,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08050",
+      "temp": 32.88,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "11423",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02062",
+      "temp": 37.36,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11572",
+      "temp": 36.12,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20175",
+      "temp": 36.39,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "13027",
+      "temp": 49.28,
+      "pressure": 1009,
+      "humidity": 76,
+      "temp_min": 44.6,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "07860",
+      "temp": 33.62,
+      "pressure": 1014,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "17522",
+      "temp": 33.76,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 32,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "01851",
+      "temp": 36.68,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "20147",
+      "temp": 35.98,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "07712",
+      "temp": 37.02,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "20109",
+      "temp": 35.64,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "06824",
+      "temp": 33.84,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "03301",
+      "temp": 33.35,
+      "pressure": 1012,
+      "humidity": 98,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "11717",
+      "temp": 34.25,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "19446",
+      "temp": 32.36,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "07083",
+      "temp": 35.67,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10512",
+      "temp": 32.63,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "11003",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11762",
+      "temp": 36.32,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11378",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "07110",
+      "temp": 34.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11803",
+      "temp": 35.33,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02780",
+      "temp": 37.96,
+      "pressure": 1014,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08075",
+      "temp": 31.98,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "08520",
+      "temp": 34.39,
+      "pressure": 1015,
+      "humidity": 81,
+      "temp_min": 28.04,
+      "temp_max": 42.98
+   },
+   {
+      "zip": "17402",
+      "temp": 37.4,
+      "pressure": 1014,
+      "humidity": 70,
+      "temp_min": 33.08,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "07920",
+      "temp": 35.78,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12553",
+      "temp": 32.31,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 37.04
+   },
+   {
+      "zip": "08753",
+      "temp": 33.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "19701",
+      "temp": 31.3,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 34.34
+   },
+   {
+      "zip": "10451",
+      "temp": 34.92,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01453",
+      "temp": 35.83,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06516",
+      "temp": 33.22,
+      "pressure": 1015,
+      "humidity": 99,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "03038",
+      "temp": 36.14,
+      "pressure": 1013,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11375",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01923",
+      "temp": 38.44,
+      "pressure": 1013,
+      "humidity": 79,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11722",
+      "temp": 34,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20735",
+      "temp": 34.29,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "08088",
+      "temp": 33.26,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "02149",
+      "temp": 37.51,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11354",
+      "temp": 35.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08540",
+      "temp": 33.3,
+      "pressure": 1015,
+      "humidity": 81,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "01844",
+      "temp": 36.34,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21044",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "15001",
+      "temp": 54.18,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "08723",
+      "temp": 34.45,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "06810",
+      "temp": 30.78,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 35.6
+   },
+   {
+      "zip": "14043",
+      "temp": 47.01,
+      "pressure": 1008,
+      "humidity": 100,
+      "temp_min": 44.96,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "08865",
+      "temp": 32.05,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "06790",
+      "temp": 34.11,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "02124",
+      "temp": 36.88,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06066",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21113",
+      "temp": 34.77,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11743",
+      "temp": 34.75,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "06473",
+      "temp": 32.77,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "07036",
+      "temp": 36.9,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "15068",
+      "temp": 53.74,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "11701",
+      "temp": 35.71,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "13090",
+      "temp": 47.3,
+      "pressure": 1009,
+      "humidity": 76,
+      "temp_min": 44.06,
+      "temp_max": 50
+   },
+   {
+      "zip": "07430",
+      "temp": 34.25,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "16601",
+      "temp": 42.64,
+      "pressure": 1013,
+      "humidity": 75,
+      "temp_min": 34.7,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "02150",
+      "temp": 53.6,
+      "pressure": 1011,
+      "humidity": 89,
+      "temp_min": 48.02,
+      "temp_max": 57.92
+   },
+   {
+      "zip": "19067",
+      "temp": 32.81,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "19468",
+      "temp": 33.06,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "11510",
+      "temp": 35.69,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12302",
+      "temp": 43.21,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 39.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "07087",
+      "temp": 35.22,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11793",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11201",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "01810",
+      "temp": 36.48,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11365",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07052",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11421",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20874",
+      "temp": 35.6,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08234",
+      "temp": 31.15,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "07060",
+      "temp": 35.78,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11417",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "14701",
+      "temp": 47.41,
+      "pressure": 1010,
+      "humidity": 100,
+      "temp_min": 46.4,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "01752",
+      "temp": 35.94,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "19454",
+      "temp": 32.36,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "10950",
+      "temp": 33.08,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "19047",
+      "temp": 31.82,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "11787",
+      "temp": 33.82,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01960",
+      "temp": 38.44,
+      "pressure": 1013,
+      "humidity": 79,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08081",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "06082",
+      "temp": 33.91,
+      "pressure": 1014,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07003",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10801",
+      "temp": 35.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10956",
+      "temp": 34.59,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10562",
+      "temp": 34.95,
+      "pressure": 1014,
+      "humidity": 86,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01867",
+      "temp": 38.79,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "16066",
+      "temp": 54.41,
+      "pressure": 1012,
+      "humidity": 80,
+      "temp_min": 53.06,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "02135",
+      "temp": 37.51,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02125",
+      "temp": 36.88,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "01801",
+      "temp": 37.47,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21144",
+      "temp": 34.77,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02151",
+      "temp": 37.15,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02301",
+      "temp": 38.16,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "15401",
+      "temp": 51.69,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 44.6,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "02176",
+      "temp": 37.15,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11561",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11102",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "02148",
+      "temp": 37.51,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "10977",
+      "temp": 34.59,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11729",
+      "temp": 34.23,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10583",
+      "temp": 35.2,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11361",
+      "temp": 35.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08021",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "06457",
+      "temp": 33.26,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "12010",
+      "temp": 43.52,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 41,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "02038",
+      "temp": 37.29,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "16101",
+      "temp": 52.39,
+      "pressure": 1012,
+      "humidity": 96,
+      "temp_min": 51.08,
+      "temp_max": 53.96
+   },
+   {
+      "zip": "18201",
+      "temp": 37.63,
+      "pressure": 1014,
+      "humidity": 65,
+      "temp_min": 30.2,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "02919",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06405",
+      "temp": 33.08,
+      "pressure": 1015,
+      "humidity": 99,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20815",
+      "temp": 34.27,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "18015",
+      "temp": 33.37,
+      "pressure": 1015,
+      "humidity": 74,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "17325",
+      "temp": 38.41,
+      "pressure": 1014,
+      "humidity": 70,
+      "temp_min": 33.08,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "02184",
+      "temp": 38.16,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "15301",
+      "temp": 54.77,
+      "pressure": 1014,
+      "humidity": 71,
+      "temp_min": 53.96,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "19426",
+      "temp": 32.77,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "12180",
+      "temp": 41.11,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 30.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "18042",
+      "temp": 32.59,
+      "pressure": 1015,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "14580",
+      "temp": 51.55,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "19083",
+      "temp": 32.92,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "07410",
+      "temp": 34.52,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20832",
+      "temp": 34.79,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11791",
+      "temp": 35.33,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02136",
+      "temp": 36.88,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11357",
+      "temp": 35.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08759",
+      "temp": 33.93,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "10301",
+      "temp": 35.56,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02860",
+      "temp": 36.95,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "19053",
+      "temp": 31.82,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "01826",
+      "temp": 36.68,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02816",
+      "temp": 35.2,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "01841",
+      "temp": 36.34,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11369",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "03060",
+      "temp": 36.07,
+      "pressure": 1013,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06111",
+      "temp": 33.44,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20745",
+      "temp": 34.32,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "02026",
+      "temp": 36.88,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08816",
+      "temp": 35.11,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "04103",
+      "temp": 31.98,
+      "pressure": 1013,
+      "humidity": 95,
+      "temp_min": 26.6,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "01420",
+      "temp": 35.56,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11779",
+      "temp": 31.84,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "08046",
+      "temp": 31.77,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "19002",
+      "temp": 32.36,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "12901",
+      "temp": 41.36,
+      "pressure": 1007,
+      "humidity": 92,
+      "temp_min": 32,
+      "temp_max": 49.1
+   },
+   {
+      "zip": "15108",
+      "temp": 54.18,
+      "pressure": 1012,
+      "humidity": 87,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "11550",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08902",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "10598",
+      "temp": 35.98,
+      "pressure": 1014,
+      "humidity": 86,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "20706",
+      "temp": 34.29,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "14094",
+      "temp": 46.35,
+      "pressure": 1008,
+      "humidity": 100,
+      "temp_min": 44.96,
+      "temp_max": 48.2
+   },
+   {
+      "zip": "01880",
+      "temp": 36.86,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11010",
+      "temp": 35.67,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "06010",
+      "temp": 33.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20120",
+      "temp": 35.29,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "02072",
+      "temp": 38.25,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08857",
+      "temp": 35.38,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "14606",
+      "temp": 52.57,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 55.04
+   },
+   {
+      "zip": "07728",
+      "temp": 35.4,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12203",
+      "temp": 40.87,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 30.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "07424",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "21009",
+      "temp": 34.07,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "14120",
+      "temp": 46.38,
+      "pressure": 1008,
+      "humidity": 96,
+      "temp_min": 44.96,
+      "temp_max": 48.2
+   },
+   {
+      "zip": "21114",
+      "temp": 34.11,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "06109",
+      "temp": 33.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "03054",
+      "temp": 35.47,
+      "pressure": 1013,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "21117",
+      "temp": 34.47,
+      "pressure": 1015,
+      "humidity": 77,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "08401",
+      "temp": 31.19,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "18062",
+      "temp": 33.84,
+      "pressure": 1015,
+      "humidity": 74,
+      "temp_min": 30.2,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "11554",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11040",
+      "temp": 35.4,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02886",
+      "temp": 34.81,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "15642",
+      "temp": 53.73,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "08831",
+      "temp": 35.38,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08003",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "06511",
+      "temp": 33.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20707",
+      "temp": 34.81,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "20746",
+      "temp": 34.3,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "14850",
+      "temp": 46.98,
+      "pressure": 1009,
+      "humidity": 76,
+      "temp_min": 44.06,
+      "temp_max": 50
+   },
+   {
+      "zip": "18951",
+      "temp": 32.67,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "08094",
+      "temp": 31.66,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07109",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08060",
+      "temp": 31.77,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "01040",
+      "temp": 33.4,
+      "pressure": 1014,
+      "humidity": 91,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "01701",
+      "temp": 37.02,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "18052",
+      "temp": 33.3,
+      "pressure": 1015,
+      "humidity": 74,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07675",
+      "temp": 34.57,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11553",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "14075",
+      "temp": 46.51,
+      "pressure": 1010,
+      "humidity": 100,
+      "temp_min": 44.6,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "12020",
+      "temp": 43.21,
+      "pressure": 1011,
+      "humidity": 93,
+      "temp_min": 39.92,
+      "temp_max": 46.94
+   },
+   {
+      "zip": "06512",
+      "temp": 33.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20814",
+      "temp": 34.43,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "11746",
+      "temp": 34.23,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02131",
+      "temp": 36.88,
+      "pressure": 1013,
+      "humidity": 82,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11710",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07740",
+      "temp": 35.51,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "21133",
+      "temp": 34.47,
+      "pressure": 1015,
+      "humidity": 77,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "06074",
+      "temp": 33.82,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "07960",
+      "temp": 36.54,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "07103",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "15146",
+      "temp": 53.74,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "11691",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07093",
+      "temp": 35.22,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01970",
+      "temp": 39.24,
+      "pressure": 1013,
+      "humidity": 79,
+      "temp_min": 33.08,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "20772",
+      "temp": 33.85,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "02852",
+      "temp": 34.07,
+      "pressure": 1014,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "02864",
+      "temp": 37.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "20744",
+      "temp": 34.21,
+      "pressure": 1015,
+      "humidity": 94,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "07601",
+      "temp": 34.99,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08080",
+      "temp": 32.25,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "17701",
+      "temp": 34.45,
+      "pressure": 1013,
+      "humidity": 88,
+      "temp_min": 33.98,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "20136",
+      "temp": 34.88,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07302",
+      "temp": 35.22,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08817",
+      "temp": 35.33,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20705",
+      "temp": 34.75,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07747",
+      "temp": 36.57,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "03051",
+      "temp": 36.79,
+      "pressure": 1013,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02474",
+      "temp": 37.51,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07017",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11364",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07024",
+      "temp": 34.92,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08332",
+      "temp": 32.92,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 32,
+      "temp_max": 34.34
+   },
+   {
+      "zip": "06106",
+      "temp": 34,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "11542",
+      "temp": 34.95,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "01886",
+      "temp": 35.94,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "15701",
+      "temp": 49.91,
+      "pressure": 1014,
+      "humidity": 66,
+      "temp_min": 44.6,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "07080",
+      "temp": 35.8,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02720",
+      "temp": 37.02,
+      "pressure": 1014,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "19355",
+      "temp": 32.94,
+      "pressure": 1015,
+      "humidity": 75,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "15601",
+      "temp": 53.04,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 48.92,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "19460",
+      "temp": 32.92,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "20155",
+      "temp": 35.64,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "06051",
+      "temp": 33.17,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "01604",
+      "temp": 35.02,
+      "pressure": 1013,
+      "humidity": 75,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02169",
+      "temp": 38.14,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "07016",
+      "temp": 35.67,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11735",
+      "temp": 36.68,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "02904",
+      "temp": 36.55,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02368",
+      "temp": 38.44,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "15317",
+      "temp": 53.94,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "19438",
+      "temp": 32.59,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "02740",
+      "temp": 37.35,
+      "pressure": 1014,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "17201",
+      "temp": 40.24,
+      "pressure": 1014,
+      "humidity": 70,
+      "temp_min": 33.08,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "20850",
+      "temp": 34.92,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08105",
+      "temp": 32.27,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "17013",
+      "temp": 34.56,
+      "pressure": 1013,
+      "humidity": 100,
+      "temp_min": 33.08,
+      "temp_max": 35.96
+   },
+   {
+      "zip": "19013",
+      "temp": 32.16,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "01902",
+      "temp": 36.93,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "12401",
+      "temp": 32.31,
+      "pressure": 1014,
+      "humidity": 95,
+      "temp_min": 28.04,
+      "temp_max": 35.6
+   },
+   {
+      "zip": "15102",
+      "temp": 53.96,
+      "pressure": 1013,
+      "humidity": 71,
+      "temp_min": 51.8,
+      "temp_max": 55.94
+   },
+   {
+      "zip": "02127",
+      "temp": 37.54,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06489",
+      "temp": 32.95,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "03102",
+      "temp": 34.47,
+      "pressure": 1013,
+      "humidity": 85,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08861",
+      "temp": 36.19,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "11422",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07450",
+      "temp": 34.18,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "08859",
+      "temp": 36.59,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "18360",
+      "temp": 34.77,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "20715",
+      "temp": 34.11,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "19320",
+      "temp": 32.2,
+      "pressure": 1016,
+      "humidity": 96,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "19038",
+      "temp": 32.99,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 30.2,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "02138",
+      "temp": 37.51,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "13126",
+      "temp": 50.36,
+      "pressure": 1008,
+      "humidity": 58,
+      "temp_min": 48.2,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "02048",
+      "temp": 38.03,
+      "pressure": 1014,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "11756",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "03820",
+      "temp": 35.29,
+      "pressure": 1013,
+      "humidity": 86,
+      "temp_min": 28.94,
+      "temp_max": 41
+   },
+   {
+      "zip": "02920",
+      "temp": 35.42,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "18966",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "19020",
+      "temp": 31.66,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.04,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "18702",
+      "temp": 40.73,
+      "pressure": 1014,
+      "humidity": 65,
+      "temp_min": 30.2,
+      "temp_max": 46.4
+   },
+   {
+      "zip": "08901",
+      "temp": 35.11,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20191",
+      "temp": 34.09,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "20164",
+      "temp": 35.1,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 28.94,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "16801",
+      "temp": 40.26,
+      "pressure": 1013,
+      "humidity": 75,
+      "temp_min": 35.6,
+      "temp_max": 45.68
+   },
+   {
+      "zip": "18064",
+      "temp": 33.13,
+      "pressure": 1015,
+      "humidity": 74,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "07621",
+      "temp": 34.16,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11714",
+      "temp": 35.87,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "07065",
+      "temp": 37.15,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "11414",
+      "temp": 36.46,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.2,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "04401",
+      "temp": 31.35,
+      "pressure": 1012,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 33.08
+   },
+   {
+      "zip": "06902",
+      "temp": 35.37,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "02360",
+      "temp": 37.9,
+      "pressure": 1014,
+      "humidity": 89,
+      "temp_min": 30.02,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "10954",
+      "temp": 34.59,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "12533",
+      "temp": 33.12,
+      "pressure": 1014,
+      "humidity": 96,
+      "temp_min": 28.04,
+      "temp_max": 39.92
+   },
+   {
+      "zip": "08527",
+      "temp": 35.38,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.98
+   },
+   {
+      "zip": "14215",
+      "temp": 47.01,
+      "pressure": 1008,
+      "humidity": 100,
+      "temp_min": 44.96,
+      "temp_max": 48.92
+   },
+   {
+      "zip": "01824",
+      "temp": 36.68,
+      "pressure": 1013,
+      "humidity": 72,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08610",
+      "temp": 33.1,
+      "pressure": 1015,
+      "humidity": 71,
+      "temp_min": 28.04,
+      "temp_max": 39.2
+   },
+   {
+      "zip": "08053",
+      "temp": 31.96,
+      "pressure": 1015,
+      "humidity": 70,
+      "temp_min": 28.94,
+      "temp_max": 35.06
+   },
+   {
+      "zip": "07006",
+      "temp": 36.1,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "06095",
+      "temp": 34,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "13760",
+      "temp": 45.99,
+      "pressure": 1011,
+      "humidity": 78,
+      "temp_min": 44.06,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "06450",
+      "temp": 33.15,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "20601",
+      "temp": 33.66,
+      "pressure": 1015,
+      "humidity": 73,
+      "temp_min": 28.94,
+      "temp_max": 37.94
+   },
+   {
+      "zip": "07032",
+      "temp": 35.24,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "20886",
+      "temp": 35.22,
+      "pressure": 1015,
+      "humidity": 82,
+      "temp_min": 30.2,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "02155",
+      "temp": 37.51,
+      "pressure": 1014,
+      "humidity": 79,
+      "temp_min": 28.04,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "06514",
+      "temp": 33.33,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "07054",
+      "temp": 36.12,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "11368",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "07731",
+      "temp": 35.35,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 42.98
+   },
+   {
+      "zip": "11566",
+      "temp": 35.85,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "11374",
+      "temp": 36.88,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 48.02
+   },
+   {
+      "zip": "06118",
+      "temp": 33.8,
+      "pressure": 1015,
+      "humidity": 92,
+      "temp_min": 28.04,
+      "temp_max": 41
+   },
+   {
+      "zip": "02703",
+      "temp": 37.96,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 30.02,
+      "temp_max": 42.08
+   },
+   {
+      "zip": "08854",
+      "temp": 35.74,
+      "pressure": 1015,
+      "humidity": 87,
+      "temp_min": 28.04,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "17022",
+      "temp": 35.55,
+      "pressure": 1015,
+      "humidity": 88,
+      "temp_min": 33.08,
+      "temp_max": 42.8
+   },
+   {
+      "zip": "11706",
+      "temp": 34.74,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.94,
+      "temp_max": 44.06
+   },
+   {
+      "zip": "19111",
+      "temp": 32.25,
+      "pressure": 1014,
+      "humidity": 88,
+      "temp_min": 28.94,
+      "temp_max": 39.02
+   },
+   {
+      "zip": "13021",
+      "temp": 49.06,
+      "pressure": 1009,
+      "humidity": 76,
+      "temp_min": 44.6,
+      "temp_max": 53.6
+   },
+   {
+      "zip": "06606",
+      "temp": 32.88,
+      "pressure": 1015,
+      "humidity": 100,
+      "temp_min": 28.04,
+      "temp_max": 41
+   }
+]

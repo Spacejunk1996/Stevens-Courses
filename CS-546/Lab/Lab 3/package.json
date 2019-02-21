@@ -1,0 +1,15 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "CS-546 Lab 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Zixu Jiang 10441324",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

@@ -1,0 +1,3502 @@
+[
+   {
+      "ssn": "283-75-5847",
+      "company": "Skaboo",
+      "jobTitle": "Director of Sales",
+      "willBeFired": true,
+      "ip": "83.133.174.10"
+   },
+   {
+      "ssn": "208-64-8462",
+      "company": "Nlounge",
+      "jobTitle": "Web Designer II",
+      "willBeFired": true,
+      "ip": "85.62.70.236"
+   },
+   {
+      "ssn": "603-96-9412",
+      "company": "Wikido",
+      "jobTitle": "Help Desk Operator",
+      "willBeFired": true,
+      "ip": "11.126.179.152"
+   },
+   {
+      "ssn": "616-72-8714",
+      "company": "Gigazoom",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": false,
+      "ip": "243.163.95.31"
+   },
+   {
+      "ssn": "117-97-4628",
+      "company": "Edgeclub",
+      "jobTitle": "Assistant Professor",
+      "willBeFired": true,
+      "ip": "56.235.137.163"
+   },
+   {
+      "ssn": "411-37-0584",
+      "company": "Quimm",
+      "jobTitle": "Design Engineer",
+      "willBeFired": true,
+      "ip": "240.70.81.120"
+   },
+   {
+      "ssn": "873-60-7221",
+      "company": "Npath",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": true,
+      "ip": "102.93.30.79"
+   },
+   {
+      "ssn": "346-36-4864",
+      "company": "Kazio",
+      "jobTitle": "Research Assistant III",
+      "willBeFired": true,
+      "ip": "246.119.221.77"
+   },
+   {
+      "ssn": "732-85-1378",
+      "company": "Jabbersphere",
+      "jobTitle": "Librarian",
+      "willBeFired": true,
+      "ip": "70.152.64.107"
+   },
+   {
+      "ssn": "735-04-3738",
+      "company": "Photobug",
+      "jobTitle": "Developer II",
+      "willBeFired": false,
+      "ip": "168.73.143.44"
+   },
+   {
+      "ssn": "100-27-0957",
+      "company": "Voonix",
+      "jobTitle": "Sales Associate",
+      "willBeFired": true,
+      "ip": "234.10.226.193"
+   },
+   {
+      "ssn": "816-86-5616",
+      "company": "Kazu",
+      "jobTitle": "Electrical Engineer",
+      "willBeFired": true,
+      "ip": "194.90.36.39"
+   },
+   {
+      "ssn": "711-15-3652",
+      "company": "Twitterbeat",
+      "jobTitle": "VP Accounting",
+      "willBeFired": true,
+      "ip": "85.56.79.95"
+   },
+   {
+      "ssn": "483-05-2443",
+      "company": "Riffpedia",
+      "jobTitle": "Budget/Accounting Analyst IV",
+      "willBeFired": true,
+      "ip": "150.48.246.122"
+   },
+   {
+      "ssn": "868-81-1423",
+      "company": "Buzzshare",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": true,
+      "ip": "153.128.111.222"
+   },
+   {
+      "ssn": "753-84-4604",
+      "company": "Oozz",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "55.57.215.131"
+   },
+   {
+      "ssn": "501-91-8408",
+      "company": "Lazzy",
+      "jobTitle": "Dental Hygienist",
+      "willBeFired": false,
+      "ip": "251.86.224.126"
+   },
+   {
+      "ssn": "398-88-3814",
+      "company": "Omba",
+      "jobTitle": "Geological Engineer",
+      "willBeFired": false,
+      "ip": "59.121.178.125"
+   },
+   {
+      "ssn": "685-87-1401",
+      "company": "Skibox",
+      "jobTitle": "Staff Accountant I",
+      "willBeFired": true,
+      "ip": "88.18.242.56"
+   },
+   {
+      "ssn": "190-62-0292",
+      "company": "Bubbletube",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": false,
+      "ip": "47.252.72.102"
+   },
+   {
+      "ssn": "727-33-7053",
+      "company": "Realpoint",
+      "jobTitle": "Nurse",
+      "willBeFired": true,
+      "ip": "178.52.2.105"
+   },
+   {
+      "ssn": "216-15-3479",
+      "company": "Livepath",
+      "jobTitle": "Professor",
+      "willBeFired": false,
+      "ip": "170.127.231.116"
+   },
+   {
+      "ssn": "751-45-0542",
+      "company": "Twitterworks",
+      "jobTitle": "Biostatistician II",
+      "willBeFired": false,
+      "ip": "100.243.10.73"
+   },
+   {
+      "ssn": "507-29-1938",
+      "company": "Jaloo",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": false,
+      "ip": "141.219.205.60"
+   },
+   {
+      "ssn": "621-73-4513",
+      "company": "Jayo",
+      "jobTitle": "General Manager",
+      "willBeFired": false,
+      "ip": "179.202.5.114"
+   },
+   {
+      "ssn": "812-93-3634",
+      "company": "Linkbridge",
+      "jobTitle": "Payment Adjustment Coordinator",
+      "willBeFired": false,
+      "ip": "208.212.232.64"
+   },
+   {
+      "ssn": "503-51-6869",
+      "company": "Blogtag",
+      "jobTitle": "Systems Administrator IV",
+      "willBeFired": true,
+      "ip": "37.62.252.186"
+   },
+   {
+      "ssn": "346-43-3064",
+      "company": "Kare",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "198.209.19.209"
+   },
+   {
+      "ssn": "344-71-0104",
+      "company": "Katz",
+      "jobTitle": "Analyst Programmer",
+      "willBeFired": false,
+      "ip": "75.101.157.45"
+   },
+   {
+      "ssn": "331-29-2707",
+      "company": "DabZ",
+      "jobTitle": "Administrative Assistant II",
+      "willBeFired": true,
+      "ip": "79.132.6.56"
+   },
+   {
+      "ssn": "418-78-5742",
+      "company": "Skibox",
+      "jobTitle": "Human Resources Assistant I",
+      "willBeFired": true,
+      "ip": "171.222.212.128"
+   },
+   {
+      "ssn": "806-82-2466",
+      "company": "Kare",
+      "jobTitle": "Human Resources Assistant I",
+      "willBeFired": false,
+      "ip": "69.217.86.23"
+   },
+   {
+      "ssn": "805-51-8399",
+      "company": "Nlounge",
+      "jobTitle": "Safety Technician I",
+      "willBeFired": true,
+      "ip": "178.191.186.230"
+   },
+   {
+      "ssn": "736-50-9597",
+      "company": "Miboo",
+      "jobTitle": "VP Sales",
+      "willBeFired": true,
+      "ip": "13.89.223.247"
+   },
+   {
+      "ssn": "356-16-1197",
+      "company": "Cogibox",
+      "jobTitle": "Project Manager",
+      "willBeFired": true,
+      "ip": "188.79.182.198"
+   },
+   {
+      "ssn": "672-64-4046",
+      "company": "Chatterpoint",
+      "jobTitle": "Social Worker",
+      "willBeFired": true,
+      "ip": "26.243.177.130"
+   },
+   {
+      "ssn": "878-81-9897",
+      "company": "LiveZ",
+      "jobTitle": "Compensation Analyst",
+      "willBeFired": true,
+      "ip": "148.44.127.133"
+   },
+   {
+      "ssn": "154-42-8437",
+      "company": "Oodoo",
+      "jobTitle": "Civil Engineer",
+      "willBeFired": true,
+      "ip": "132.201.116.182"
+   },
+   {
+      "ssn": "408-08-8293",
+      "company": "Voomm",
+      "jobTitle": "Clinical Specialist",
+      "willBeFired": true,
+      "ip": "207.157.133.191"
+   },
+   {
+      "ssn": "831-15-7676",
+      "company": "Brightdog",
+      "jobTitle": "Automation Specialist III",
+      "willBeFired": false,
+      "ip": "52.73.125.119"
+   },
+   {
+      "ssn": "810-88-4768",
+      "company": "Zoomdog",
+      "jobTitle": "Nurse Practicioner",
+      "willBeFired": false,
+      "ip": "222.40.17.251"
+   },
+   {
+      "ssn": "196-53-5669",
+      "company": "Browsecat",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": false,
+      "ip": "72.173.171.97"
+   },
+   {
+      "ssn": "182-76-6117",
+      "company": "Teklist",
+      "jobTitle": "Payment Adjustment Coordinator",
+      "willBeFired": true,
+      "ip": "252.193.188.90"
+   },
+   {
+      "ssn": "365-51-4187",
+      "company": "Vitz",
+      "jobTitle": "VP Accounting",
+      "willBeFired": true,
+      "ip": "165.164.135.140"
+   },
+   {
+      "ssn": "667-01-5556",
+      "company": "Meevee",
+      "jobTitle": "Human Resources Manager",
+      "willBeFired": false,
+      "ip": "146.245.199.43"
+   },
+   {
+      "ssn": "140-35-9018",
+      "company": "LiveZ",
+      "jobTitle": "Senior Cost Accountant",
+      "willBeFired": false,
+      "ip": "101.126.153.45"
+   },
+   {
+      "ssn": "151-59-8276",
+      "company": "Roodel",
+      "jobTitle": "Professor",
+      "willBeFired": false,
+      "ip": "247.66.154.247"
+   },
+   {
+      "ssn": "544-53-1652",
+      "company": "Tanoodle",
+      "jobTitle": "Design Engineer",
+      "willBeFired": true,
+      "ip": "210.234.78.10"
+   },
+   {
+      "ssn": "139-01-2257",
+      "company": "Zava",
+      "jobTitle": "Programmer II",
+      "willBeFired": true,
+      "ip": "51.215.2.47"
+   },
+   {
+      "ssn": "748-49-8252",
+      "company": "Kwinu",
+      "jobTitle": "Marketing Assistant",
+      "willBeFired": true,
+      "ip": "203.91.19.61"
+   },
+   {
+      "ssn": "124-58-6065",
+      "company": "Shuffledrive",
+      "jobTitle": "Civil Engineer",
+      "willBeFired": true,
+      "ip": "38.172.63.55"
+   },
+   {
+      "ssn": "637-97-6169",
+      "company": "Youbridge",
+      "jobTitle": "Analyst Programmer",
+      "willBeFired": false,
+      "ip": "53.30.143.55"
+   },
+   {
+      "ssn": "799-17-9651",
+      "company": "Skipstorm",
+      "jobTitle": "Account Executive",
+      "willBeFired": false,
+      "ip": "97.129.155.25"
+   },
+   {
+      "ssn": "544-92-4767",
+      "company": "Wordpedia",
+      "jobTitle": "Database Administrator III",
+      "willBeFired": false,
+      "ip": "155.156.121.184"
+   },
+   {
+      "ssn": "453-27-6965",
+      "company": "Zoonder",
+      "jobTitle": "Electrical Engineer",
+      "willBeFired": true,
+      "ip": "225.186.5.251"
+   },
+   {
+      "ssn": "127-48-9002",
+      "company": "Kwimbee",
+      "jobTitle": "Account Coordinator",
+      "willBeFired": false,
+      "ip": "193.236.182.94"
+   },
+   {
+      "ssn": "812-08-6817",
+      "company": "Dablist",
+      "jobTitle": "Graphic Designer",
+      "willBeFired": false,
+      "ip": "227.35.150.61"
+   },
+   {
+      "ssn": "841-62-5969",
+      "company": "Kazio",
+      "jobTitle": "Geologist IV",
+      "willBeFired": false,
+      "ip": "1.57.31.37"
+   },
+   {
+      "ssn": "402-82-7681",
+      "company": "Meevee",
+      "jobTitle": "Geologist III",
+      "willBeFired": true,
+      "ip": "134.163.215.10"
+   },
+   {
+      "ssn": "183-46-3698",
+      "company": "Twinte",
+      "jobTitle": "Chief Design Engineer",
+      "willBeFired": true,
+      "ip": "136.3.245.139"
+   },
+   {
+      "ssn": "224-13-5736",
+      "company": "Rhyloo",
+      "jobTitle": "Programmer IV",
+      "willBeFired": false,
+      "ip": "118.90.99.211"
+   },
+   {
+      "ssn": "196-40-4729",
+      "company": "Linklinks",
+      "jobTitle": "Web Developer I",
+      "willBeFired": true,
+      "ip": "129.205.81.224"
+   },
+   {
+      "ssn": "110-37-4192",
+      "company": "Voonder",
+      "jobTitle": "Software Consultant",
+      "willBeFired": true,
+      "ip": "98.55.252.116"
+   },
+   {
+      "ssn": "504-80-1495",
+      "company": "Gigazoom",
+      "jobTitle": "Human Resources Assistant II",
+      "willBeFired": true,
+      "ip": "246.49.167.44"
+   },
+   {
+      "ssn": "891-31-0457",
+      "company": "Zoomlounge",
+      "jobTitle": "Community Outreach Specialist",
+      "willBeFired": true,
+      "ip": "150.102.159.21"
+   },
+   {
+      "ssn": "316-79-5567",
+      "company": "Brainlounge",
+      "jobTitle": "Product Engineer",
+      "willBeFired": false,
+      "ip": "180.36.157.48"
+   },
+   {
+      "ssn": "706-22-7471",
+      "company": "Flipbug",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": false,
+      "ip": "168.228.172.177"
+   },
+   {
+      "ssn": "525-60-3386",
+      "company": "Mybuzz",
+      "jobTitle": "Accountant III",
+      "willBeFired": false,
+      "ip": "83.41.214.103"
+   },
+   {
+      "ssn": "892-35-8123",
+      "company": "Lazzy",
+      "jobTitle": "Graphic Designer",
+      "willBeFired": false,
+      "ip": "203.123.65.251"
+   },
+   {
+      "ssn": "673-56-6194",
+      "company": "Shuffletag",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": false,
+      "ip": "235.70.182.102"
+   },
+   {
+      "ssn": "883-09-9103",
+      "company": "Tagchat",
+      "jobTitle": "Nurse",
+      "willBeFired": false,
+      "ip": "231.89.90.71"
+   },
+   {
+      "ssn": "398-78-6924",
+      "company": "Quimm",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": false,
+      "ip": "24.21.157.146"
+   },
+   {
+      "ssn": "340-09-7664",
+      "company": "Rhynoodle",
+      "jobTitle": "Database Administrator III",
+      "willBeFired": false,
+      "ip": "154.71.103.70"
+   },
+   {
+      "ssn": "551-25-0699",
+      "company": "Twitterbridge",
+      "jobTitle": "Budget/Accounting Analyst III",
+      "willBeFired": false,
+      "ip": "15.134.15.53"
+   },
+   {
+      "ssn": "487-37-1795",
+      "company": "Mudo",
+      "jobTitle": "Web Designer I",
+      "willBeFired": false,
+      "ip": "133.75.166.200"
+   },
+   {
+      "ssn": "609-94-9074",
+      "company": "Edgepulse",
+      "jobTitle": "Account Executive",
+      "willBeFired": false,
+      "ip": "168.255.230.114"
+   },
+   {
+      "ssn": "388-42-6697",
+      "company": "Browsebug",
+      "jobTitle": "Geological Engineer",
+      "willBeFired": true,
+      "ip": "130.151.54.174"
+   },
+   {
+      "ssn": "796-12-3117",
+      "company": "Skipfire",
+      "jobTitle": "Senior Editor",
+      "willBeFired": true,
+      "ip": "124.157.120.147"
+   },
+   {
+      "ssn": "478-54-6625",
+      "company": "Buzzdog",
+      "jobTitle": "Staff Accountant II",
+      "willBeFired": false,
+      "ip": "138.147.195.77"
+   },
+   {
+      "ssn": "244-56-5862",
+      "company": "Voonte",
+      "jobTitle": "Software Consultant",
+      "willBeFired": false,
+      "ip": "230.195.96.227"
+   },
+   {
+      "ssn": "603-02-6107",
+      "company": "Blogtags",
+      "jobTitle": "Accounting Assistant III",
+      "willBeFired": true,
+      "ip": "208.104.84.112"
+   },
+   {
+      "ssn": "522-11-8564",
+      "company": "Photobean",
+      "jobTitle": "Geologist IV",
+      "willBeFired": true,
+      "ip": "19.134.125.166"
+   },
+   {
+      "ssn": "327-40-9914",
+      "company": "Jaxbean",
+      "jobTitle": "Dental Hygienist",
+      "willBeFired": false,
+      "ip": "90.211.229.174"
+   },
+   {
+      "ssn": "232-16-1895",
+      "company": "Miboo",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": false,
+      "ip": "245.160.125.125"
+   },
+   {
+      "ssn": "441-42-4258",
+      "company": "Voolia",
+      "jobTitle": "Health Coach III",
+      "willBeFired": true,
+      "ip": "2.120.35.70"
+   },
+   {
+      "ssn": "479-50-8946",
+      "company": "Izio",
+      "jobTitle": "VP Marketing",
+      "willBeFired": true,
+      "ip": "98.244.129.173"
+   },
+   {
+      "ssn": "329-37-6185",
+      "company": "Tavu",
+      "jobTitle": "Marketing Manager",
+      "willBeFired": true,
+      "ip": "247.181.81.216"
+   },
+   {
+      "ssn": "354-24-9279",
+      "company": "Topicshots",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": false,
+      "ip": "8.234.22.126"
+   },
+   {
+      "ssn": "556-27-5007",
+      "company": "Demizz",
+      "jobTitle": "Payment Adjustment Coordinator",
+      "willBeFired": false,
+      "ip": "45.70.199.237"
+   },
+   {
+      "ssn": "431-78-6658",
+      "company": "Jaloo",
+      "jobTitle": "Senior Developer",
+      "willBeFired": true,
+      "ip": "113.239.254.205"
+   },
+   {
+      "ssn": "710-64-6131",
+      "company": "Gabspot",
+      "jobTitle": "Software Test Engineer III",
+      "willBeFired": false,
+      "ip": "216.223.76.133"
+   },
+   {
+      "ssn": "503-54-4789",
+      "company": "Twitterlist",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": false,
+      "ip": "14.99.169.126"
+   },
+   {
+      "ssn": "732-74-3462",
+      "company": "Quire",
+      "jobTitle": "Compensation Analyst",
+      "willBeFired": false,
+      "ip": "75.85.33.250"
+   },
+   {
+      "ssn": "804-08-3106",
+      "company": "Jabberstorm",
+      "jobTitle": "Financial Analyst",
+      "willBeFired": true,
+      "ip": "41.67.33.0"
+   },
+   {
+      "ssn": "895-84-8164",
+      "company": "Zava",
+      "jobTitle": "Marketing Manager",
+      "willBeFired": false,
+      "ip": "223.108.78.71"
+   },
+   {
+      "ssn": "847-80-9115",
+      "company": "Realcube",
+      "jobTitle": "Electrical Engineer",
+      "willBeFired": false,
+      "ip": "185.179.110.115"
+   },
+   {
+      "ssn": "860-17-1604",
+      "company": "Feedbug",
+      "jobTitle": "Quality Engineer",
+      "willBeFired": true,
+      "ip": "224.139.255.93"
+   },
+   {
+      "ssn": "630-84-1647",
+      "company": "Linklinks",
+      "jobTitle": "Geological Engineer",
+      "willBeFired": false,
+      "ip": "77.2.217.230"
+   },
+   {
+      "ssn": "242-17-9147",
+      "company": "Rhycero",
+      "jobTitle": "Registered Nurse",
+      "willBeFired": false,
+      "ip": "207.172.128.224"
+   },
+   {
+      "ssn": "392-77-4371",
+      "company": "Yombu",
+      "jobTitle": "Junior Executive",
+      "willBeFired": true,
+      "ip": "41.19.43.23"
+   },
+   {
+      "ssn": "646-64-0217",
+      "company": "Browsedrive",
+      "jobTitle": "Help Desk Technician",
+      "willBeFired": false,
+      "ip": "73.147.193.58"
+   },
+   {
+      "ssn": "697-97-5582",
+      "company": "Jabbertype",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": false,
+      "ip": "86.242.51.200"
+   },
+   {
+      "ssn": "544-06-8446",
+      "company": "Viva",
+      "jobTitle": "Associate Professor",
+      "willBeFired": false,
+      "ip": "51.116.24.29"
+   },
+   {
+      "ssn": "602-82-7845",
+      "company": "Zoomzone",
+      "jobTitle": "Office Assistant III",
+      "willBeFired": false,
+      "ip": "204.55.13.157"
+   },
+   {
+      "ssn": "183-78-2271",
+      "company": "Tagfeed",
+      "jobTitle": "Help Desk Operator",
+      "willBeFired": false,
+      "ip": "52.218.17.81"
+   },
+   {
+      "ssn": "585-31-6533",
+      "company": "Geba",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": true,
+      "ip": "107.1.239.1"
+   },
+   {
+      "ssn": "863-79-8759",
+      "company": "Mynte",
+      "jobTitle": "VP Sales",
+      "willBeFired": true,
+      "ip": "127.119.86.254"
+   },
+   {
+      "ssn": "514-70-7470",
+      "company": "Ntags",
+      "jobTitle": "Director of Sales",
+      "willBeFired": true,
+      "ip": "153.204.144.224"
+   },
+   {
+      "ssn": "873-71-6570",
+      "company": "Topiczoom",
+      "jobTitle": "Marketing Assistant",
+      "willBeFired": true,
+      "ip": "247.115.233.32"
+   },
+   {
+      "ssn": "680-22-3307",
+      "company": "Demizz",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": true,
+      "ip": "26.243.162.155"
+   },
+   {
+      "ssn": "144-17-0345",
+      "company": "Dabfeed",
+      "jobTitle": "Technical Writer",
+      "willBeFired": true,
+      "ip": "232.67.223.38"
+   },
+   {
+      "ssn": "886-08-0032",
+      "company": "Agivu",
+      "jobTitle": "Clinical Specialist",
+      "willBeFired": false,
+      "ip": "93.229.37.117"
+   },
+   {
+      "ssn": "810-62-7442",
+      "company": "Digitube",
+      "jobTitle": "Web Developer IV",
+      "willBeFired": false,
+      "ip": "134.188.225.38"
+   },
+   {
+      "ssn": "188-83-6602",
+      "company": "Riffpath",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": true,
+      "ip": "138.155.114.181"
+   },
+   {
+      "ssn": "693-24-5488",
+      "company": "Zoomcast",
+      "jobTitle": "Research Assistant III",
+      "willBeFired": true,
+      "ip": "0.42.4.178"
+   },
+   {
+      "ssn": "766-36-8542",
+      "company": "Edgeblab",
+      "jobTitle": "Accountant IV",
+      "willBeFired": true,
+      "ip": "75.107.182.110"
+   },
+   {
+      "ssn": "479-79-3310",
+      "company": "Muxo",
+      "jobTitle": "Sales Representative",
+      "willBeFired": true,
+      "ip": "41.14.125.6"
+   },
+   {
+      "ssn": "631-58-1502",
+      "company": "Kwideo",
+      "jobTitle": "Senior Quality Engineer",
+      "willBeFired": true,
+      "ip": "202.56.131.232"
+   },
+   {
+      "ssn": "563-38-6831",
+      "company": "Katz",
+      "jobTitle": "Automation Specialist IV",
+      "willBeFired": true,
+      "ip": "252.11.168.39"
+   },
+   {
+      "ssn": "645-28-4855",
+      "company": "Youtags",
+      "jobTitle": "Senior Developer",
+      "willBeFired": false,
+      "ip": "113.40.21.80"
+   },
+   {
+      "ssn": "875-04-4483",
+      "company": "Mydeo",
+      "jobTitle": "Biostatistician II",
+      "willBeFired": false,
+      "ip": "172.26.157.252"
+   },
+   {
+      "ssn": "732-88-0423",
+      "company": "Vidoo",
+      "jobTitle": "Research Associate",
+      "willBeFired": true,
+      "ip": "244.73.146.140"
+   },
+   {
+      "ssn": "825-23-0415",
+      "company": "Topicshots",
+      "jobTitle": "VP Quality Control",
+      "willBeFired": false,
+      "ip": "30.97.104.68"
+   },
+   {
+      "ssn": "872-80-7020",
+      "company": "Blogpad",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": true,
+      "ip": "13.212.58.226"
+   },
+   {
+      "ssn": "872-35-7302",
+      "company": "Gevee",
+      "jobTitle": "Developer I",
+      "willBeFired": true,
+      "ip": "48.175.72.115"
+   },
+   {
+      "ssn": "358-34-5454",
+      "company": "Thoughtstorm",
+      "jobTitle": "Software Engineer II",
+      "willBeFired": false,
+      "ip": "120.196.19.245"
+   },
+   {
+      "ssn": "793-46-5702",
+      "company": "Quimba",
+      "jobTitle": "Quality Engineer",
+      "willBeFired": false,
+      "ip": "158.158.223.135"
+   },
+   {
+      "ssn": "668-42-3524",
+      "company": "Digitube",
+      "jobTitle": "Web Developer III",
+      "willBeFired": true,
+      "ip": "127.135.20.16"
+   },
+   {
+      "ssn": "557-23-5825",
+      "company": "Yodo",
+      "jobTitle": "Project Manager",
+      "willBeFired": false,
+      "ip": "209.134.171.89"
+   },
+   {
+      "ssn": "391-53-9633",
+      "company": "Zoomzone",
+      "jobTitle": "Community Outreach Specialist",
+      "willBeFired": true,
+      "ip": "131.199.160.251"
+   },
+   {
+      "ssn": "258-81-0727",
+      "company": "Gabtune",
+      "jobTitle": "Human Resources Assistant IV",
+      "willBeFired": false,
+      "ip": "118.4.220.7"
+   },
+   {
+      "ssn": "610-18-3761",
+      "company": "Dynabox",
+      "jobTitle": "Technical Writer",
+      "willBeFired": true,
+      "ip": "63.209.76.19"
+   },
+   {
+      "ssn": "102-85-4098",
+      "company": "Youspan",
+      "jobTitle": "Systems Administrator IV",
+      "willBeFired": true,
+      "ip": "237.244.28.49"
+   },
+   {
+      "ssn": "588-07-5346",
+      "company": "Skipfire",
+      "jobTitle": "Senior Sales Associate",
+      "willBeFired": false,
+      "ip": "26.229.118.81"
+   },
+   {
+      "ssn": "369-83-6798",
+      "company": "Oyoloo",
+      "jobTitle": "Legal Assistant",
+      "willBeFired": true,
+      "ip": "65.191.223.18"
+   },
+   {
+      "ssn": "340-34-1186",
+      "company": "Dabvine",
+      "jobTitle": "Web Developer I",
+      "willBeFired": true,
+      "ip": "34.228.235.42"
+   },
+   {
+      "ssn": "266-01-8714",
+      "company": "Skinder",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": true,
+      "ip": "46.154.10.82"
+   },
+   {
+      "ssn": "597-19-7735",
+      "company": "Flipstorm",
+      "jobTitle": "Computer Systems Analyst II",
+      "willBeFired": false,
+      "ip": "54.92.154.212"
+   },
+   {
+      "ssn": "873-88-8390",
+      "company": "Kazio",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "22.115.137.142"
+   },
+   {
+      "ssn": "149-95-7625",
+      "company": "Voonix",
+      "jobTitle": "Budget/Accounting Analyst III",
+      "willBeFired": false,
+      "ip": "220.13.83.160"
+   },
+   {
+      "ssn": "783-08-1882",
+      "company": "Bubbletube",
+      "jobTitle": "Food Chemist",
+      "willBeFired": false,
+      "ip": "101.51.58.176"
+   },
+   {
+      "ssn": "422-94-9981",
+      "company": "Babblestorm",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": true,
+      "ip": "8.23.57.227"
+   },
+   {
+      "ssn": "571-28-6902",
+      "company": "Feedspan",
+      "jobTitle": "Staff Scientist",
+      "willBeFired": false,
+      "ip": "69.148.253.24"
+   },
+   {
+      "ssn": "647-15-8443",
+      "company": "Yodoo",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "177.46.55.205"
+   },
+   {
+      "ssn": "494-35-0734",
+      "company": "Skyvu",
+      "jobTitle": "Account Coordinator",
+      "willBeFired": false,
+      "ip": "5.119.130.170"
+   },
+   {
+      "ssn": "776-19-5925",
+      "company": "Cogilith",
+      "jobTitle": "Librarian",
+      "willBeFired": true,
+      "ip": "66.184.248.121"
+   },
+   {
+      "ssn": "195-38-9624",
+      "company": "Jatri",
+      "jobTitle": "Registered Nurse",
+      "willBeFired": true,
+      "ip": "81.127.184.233"
+   },
+   {
+      "ssn": "760-82-8009",
+      "company": "Gabcube",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "142.46.221.45"
+   },
+   {
+      "ssn": "201-09-2300",
+      "company": "Topicware",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": true,
+      "ip": "222.109.147.86"
+   },
+   {
+      "ssn": "179-80-5304",
+      "company": "Avamba",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "2.3.234.240"
+   },
+   {
+      "ssn": "269-55-5384",
+      "company": "Edgepulse",
+      "jobTitle": "Associate Professor",
+      "willBeFired": true,
+      "ip": "231.224.233.232"
+   },
+   {
+      "ssn": "415-65-7964",
+      "company": "Zoonoodle",
+      "jobTitle": "Associate Professor",
+      "willBeFired": true,
+      "ip": "89.193.169.143"
+   },
+   {
+      "ssn": "843-72-5896",
+      "company": "Eadel",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": false,
+      "ip": "114.194.123.31"
+   },
+   {
+      "ssn": "881-30-6054",
+      "company": "Yakijo",
+      "jobTitle": "Clinical Specialist",
+      "willBeFired": true,
+      "ip": "27.96.113.228"
+   },
+   {
+      "ssn": "422-18-7059",
+      "company": "Kazu",
+      "jobTitle": "Operator",
+      "willBeFired": false,
+      "ip": "156.39.89.7"
+   },
+   {
+      "ssn": "487-99-1683",
+      "company": "Skinix",
+      "jobTitle": "Food Chemist",
+      "willBeFired": false,
+      "ip": "66.231.225.248"
+   },
+   {
+      "ssn": "139-84-3267",
+      "company": "Mynte",
+      "jobTitle": "Software Engineer III",
+      "willBeFired": true,
+      "ip": "42.178.229.255"
+   },
+   {
+      "ssn": "350-84-3934",
+      "company": "Babbleblab",
+      "jobTitle": "Senior Developer",
+      "willBeFired": true,
+      "ip": "185.110.163.147"
+   },
+   {
+      "ssn": "531-59-5697",
+      "company": "Thoughtworks",
+      "jobTitle": "Senior Editor",
+      "willBeFired": true,
+      "ip": "236.141.223.249"
+   },
+   {
+      "ssn": "353-57-4752",
+      "company": "Gigazoom",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": true,
+      "ip": "118.70.209.46"
+   },
+   {
+      "ssn": "245-81-6729",
+      "company": "Eidel",
+      "jobTitle": "Geologist II",
+      "willBeFired": false,
+      "ip": "137.142.224.207"
+   },
+   {
+      "ssn": "141-34-5184",
+      "company": "Kazu",
+      "jobTitle": "Analog Circuit Design manager",
+      "willBeFired": false,
+      "ip": "130.151.144.197"
+   },
+   {
+      "ssn": "302-13-6599",
+      "company": "Wikizz",
+      "jobTitle": "Social Worker",
+      "willBeFired": true,
+      "ip": "26.16.16.201"
+   },
+   {
+      "ssn": "775-98-6354",
+      "company": "Livefish",
+      "jobTitle": "Librarian",
+      "willBeFired": true,
+      "ip": "144.90.2.148"
+   },
+   {
+      "ssn": "784-40-7301",
+      "company": "Latz",
+      "jobTitle": "Assistant Media Planner",
+      "willBeFired": false,
+      "ip": "26.40.53.22"
+   },
+   {
+      "ssn": "619-30-3977",
+      "company": "Twitterwire",
+      "jobTitle": "Staff Accountant II",
+      "willBeFired": false,
+      "ip": "113.224.68.138"
+   },
+   {
+      "ssn": "636-33-1557",
+      "company": "Mudo",
+      "jobTitle": "Systems Administrator III",
+      "willBeFired": true,
+      "ip": "107.68.106.12"
+   },
+   {
+      "ssn": "874-61-1770",
+      "company": "Aimbo",
+      "jobTitle": "Nurse",
+      "willBeFired": true,
+      "ip": "80.224.107.79"
+   },
+   {
+      "ssn": "326-58-6423",
+      "company": "Shufflester",
+      "jobTitle": "Editor",
+      "willBeFired": false,
+      "ip": "185.180.242.112"
+   },
+   {
+      "ssn": "790-55-4107",
+      "company": "Aimbo",
+      "jobTitle": "Senior Cost Accountant",
+      "willBeFired": false,
+      "ip": "52.143.195.115"
+   },
+   {
+      "ssn": "838-96-8595",
+      "company": "Zoomcast",
+      "jobTitle": "Sales Associate",
+      "willBeFired": false,
+      "ip": "236.95.229.57"
+   },
+   {
+      "ssn": "831-55-1293",
+      "company": "Edgetag",
+      "jobTitle": "Health Coach I",
+      "willBeFired": false,
+      "ip": "0.53.219.52"
+   },
+   {
+      "ssn": "740-69-0949",
+      "company": "Shufflester",
+      "jobTitle": "Accounting Assistant II",
+      "willBeFired": true,
+      "ip": "154.176.222.21"
+   },
+   {
+      "ssn": "661-78-2903",
+      "company": "Blogpad",
+      "jobTitle": "Automation Specialist II",
+      "willBeFired": true,
+      "ip": "59.169.250.199"
+   },
+   {
+      "ssn": "296-99-2065",
+      "company": "Abata",
+      "jobTitle": "Information Systems Manager",
+      "willBeFired": false,
+      "ip": "227.2.76.54"
+   },
+   {
+      "ssn": "407-23-6586",
+      "company": "Twinder",
+      "jobTitle": "Registered Nurse",
+      "willBeFired": true,
+      "ip": "19.17.188.170"
+   },
+   {
+      "ssn": "252-03-0211",
+      "company": "Dabjam",
+      "jobTitle": "Developer II",
+      "willBeFired": true,
+      "ip": "97.188.230.241"
+   },
+   {
+      "ssn": "894-51-5156",
+      "company": "Skaboo",
+      "jobTitle": "Librarian",
+      "willBeFired": false,
+      "ip": "155.115.248.136"
+   },
+   {
+      "ssn": "837-81-4539",
+      "company": "Thoughtstorm",
+      "jobTitle": "VP Marketing",
+      "willBeFired": false,
+      "ip": "30.193.207.182"
+   },
+   {
+      "ssn": "803-14-3864",
+      "company": "Avamm",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "4.207.188.195"
+   },
+   {
+      "ssn": "242-02-3850",
+      "company": "Kazu",
+      "jobTitle": "Health Coach III",
+      "willBeFired": true,
+      "ip": "166.223.102.87"
+   },
+   {
+      "ssn": "620-37-1487",
+      "company": "Babbleopia",
+      "jobTitle": "Programmer II",
+      "willBeFired": false,
+      "ip": "15.166.167.49"
+   },
+   {
+      "ssn": "810-65-2274",
+      "company": "Quire",
+      "jobTitle": "GIS Technical Architect",
+      "willBeFired": true,
+      "ip": "140.184.25.73"
+   },
+   {
+      "ssn": "753-24-2287",
+      "company": "Gabtype",
+      "jobTitle": "Quality Engineer",
+      "willBeFired": false,
+      "ip": "16.178.151.54"
+   },
+   {
+      "ssn": "176-57-4586",
+      "company": "Jaxspan",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": false,
+      "ip": "155.166.14.201"
+   },
+   {
+      "ssn": "217-66-6052",
+      "company": "Flipbug",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": true,
+      "ip": "69.7.59.121"
+   },
+   {
+      "ssn": "825-88-5347",
+      "company": "Wikibox",
+      "jobTitle": "Programmer II",
+      "willBeFired": false,
+      "ip": "15.70.216.158"
+   },
+   {
+      "ssn": "499-98-1776",
+      "company": "Edgeify",
+      "jobTitle": "Analog Circuit Design manager",
+      "willBeFired": true,
+      "ip": "73.81.241.129"
+   },
+   {
+      "ssn": "151-20-2143",
+      "company": "Centizu",
+      "jobTitle": "Analog Circuit Design manager",
+      "willBeFired": true,
+      "ip": "19.122.14.143"
+   },
+   {
+      "ssn": "859-74-2709",
+      "company": "Meetz",
+      "jobTitle": "Food Chemist",
+      "willBeFired": true,
+      "ip": "185.89.252.177"
+   },
+   {
+      "ssn": "849-71-4834",
+      "company": "Teklist",
+      "jobTitle": "General Manager",
+      "willBeFired": true,
+      "ip": "89.138.20.163"
+   },
+   {
+      "ssn": "828-60-7432",
+      "company": "Brainbox",
+      "jobTitle": "Analog Circuit Design manager",
+      "willBeFired": true,
+      "ip": "145.138.55.160"
+   },
+   {
+      "ssn": "410-96-0790",
+      "company": "Oloo",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": false,
+      "ip": "29.247.222.169"
+   },
+   {
+      "ssn": "865-26-2512",
+      "company": "Quire",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": false,
+      "ip": "19.81.244.120"
+   },
+   {
+      "ssn": "192-38-1428",
+      "company": "Agimba",
+      "jobTitle": "Programmer II",
+      "willBeFired": true,
+      "ip": "38.19.187.79"
+   },
+   {
+      "ssn": "520-38-9646",
+      "company": "Twinder",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "238.190.85.208"
+   },
+   {
+      "ssn": "756-41-4525",
+      "company": "Oyoloo",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": false,
+      "ip": "21.134.56.64"
+   },
+   {
+      "ssn": "194-19-2882",
+      "company": "Trunyx",
+      "jobTitle": "Information Systems Manager",
+      "willBeFired": true,
+      "ip": "175.126.76.92"
+   },
+   {
+      "ssn": "210-81-8956",
+      "company": "Avamm",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "0.165.77.60"
+   },
+   {
+      "ssn": "413-68-8380",
+      "company": "Fivespan",
+      "jobTitle": "Media Manager II",
+      "willBeFired": true,
+      "ip": "244.229.11.75"
+   },
+   {
+      "ssn": "847-01-3953",
+      "company": "DabZ",
+      "jobTitle": "Systems Administrator IV",
+      "willBeFired": true,
+      "ip": "195.244.194.154"
+   },
+   {
+      "ssn": "393-14-8093",
+      "company": "Yata",
+      "jobTitle": "Automation Specialist II",
+      "willBeFired": false,
+      "ip": "43.141.109.106"
+   },
+   {
+      "ssn": "307-57-3051",
+      "company": "Blogtags",
+      "jobTitle": "VP Accounting",
+      "willBeFired": true,
+      "ip": "209.149.68.199"
+   },
+   {
+      "ssn": "746-61-0990",
+      "company": "Yodel",
+      "jobTitle": "Recruiter",
+      "willBeFired": true,
+      "ip": "194.218.172.248"
+   },
+   {
+      "ssn": "335-20-7526",
+      "company": "Realmix",
+      "jobTitle": "Actuary",
+      "willBeFired": false,
+      "ip": "156.45.225.44"
+   },
+   {
+      "ssn": "737-50-6866",
+      "company": "Yodo",
+      "jobTitle": "Financial Analyst",
+      "willBeFired": true,
+      "ip": "138.202.0.81"
+   },
+   {
+      "ssn": "448-09-9751",
+      "company": "Meejo",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": false,
+      "ip": "133.202.32.50"
+   },
+   {
+      "ssn": "772-51-5855",
+      "company": "Gabvine",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "25.31.127.70"
+   },
+   {
+      "ssn": "721-67-9727",
+      "company": "Ainyx",
+      "jobTitle": "Junior Executive",
+      "willBeFired": false,
+      "ip": "129.13.55.96"
+   },
+   {
+      "ssn": "631-82-7499",
+      "company": "Npath",
+      "jobTitle": "Assistant Media Planner",
+      "willBeFired": false,
+      "ip": "32.186.239.97"
+   },
+   {
+      "ssn": "599-91-4848",
+      "company": "Buzzshare",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "81.179.110.232"
+   },
+   {
+      "ssn": "165-02-0093",
+      "company": "Mudo",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": false,
+      "ip": "2.96.198.200"
+   },
+   {
+      "ssn": "222-09-6153",
+      "company": "Layo",
+      "jobTitle": "Biostatistician I",
+      "willBeFired": false,
+      "ip": "43.185.66.93"
+   },
+   {
+      "ssn": "815-14-7809",
+      "company": "Leexo",
+      "jobTitle": "Developer II",
+      "willBeFired": true,
+      "ip": "247.250.185.222"
+   },
+   {
+      "ssn": "692-15-7238",
+      "company": "Zooveo",
+      "jobTitle": "Pharmacist",
+      "willBeFired": false,
+      "ip": "214.230.183.116"
+   },
+   {
+      "ssn": "844-68-2071",
+      "company": "Realcube",
+      "jobTitle": "Professor",
+      "willBeFired": true,
+      "ip": "78.247.85.155"
+   },
+   {
+      "ssn": "132-77-1324",
+      "company": "Zooveo",
+      "jobTitle": "Account Representative I",
+      "willBeFired": false,
+      "ip": "113.220.117.165"
+   },
+   {
+      "ssn": "123-45-6789",
+      "company": "IBM",
+      "jobTitle": "Software Engineer",
+      "willBeFired": true,
+      "ip": "79.222.167.180"
+   },
+   {
+      "ssn": "892-58-8350",
+      "company": "Reallinks",
+      "jobTitle": "Geologist III",
+      "willBeFired": false,
+      "ip": "113.202.208.13"
+   },
+   {
+      "ssn": "847-67-7503",
+      "company": "Mynte",
+      "jobTitle": "Internal Auditor",
+      "willBeFired": true,
+      "ip": "67.62.90.129"
+   },
+   {
+      "ssn": "621-45-5853",
+      "company": "Skyba",
+      "jobTitle": "Cost Accountant",
+      "willBeFired": false,
+      "ip": "7.33.73.229"
+   },
+   {
+      "ssn": "113-17-1591",
+      "company": "Trupe",
+      "jobTitle": "Food Chemist",
+      "willBeFired": false,
+      "ip": "227.14.160.208"
+   },
+   {
+      "ssn": "167-81-6078",
+      "company": "Innotype",
+      "jobTitle": "Office Assistant II",
+      "willBeFired": false,
+      "ip": "74.159.184.245"
+   },
+   {
+      "ssn": "474-79-6219",
+      "company": "Meedoo",
+      "jobTitle": "Financial Advisor",
+      "willBeFired": true,
+      "ip": "186.7.227.23"
+   },
+   {
+      "ssn": "409-16-9626",
+      "company": "Riffpedia",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": true,
+      "ip": "183.62.251.1"
+   },
+   {
+      "ssn": "299-92-7717",
+      "company": "Vinder",
+      "jobTitle": "Engineer IV",
+      "willBeFired": false,
+      "ip": "130.125.242.231"
+   },
+   {
+      "ssn": "724-76-4126",
+      "company": "Pixoboo",
+      "jobTitle": "Health Coach II",
+      "willBeFired": true,
+      "ip": "46.228.74.48"
+   },
+   {
+      "ssn": "298-64-5367",
+      "company": "Jaxnation",
+      "jobTitle": "Help Desk Technician",
+      "willBeFired": true,
+      "ip": "72.16.194.28"
+   },
+   {
+      "ssn": "656-12-1144",
+      "company": "Abata",
+      "jobTitle": "Help Desk Technician",
+      "willBeFired": false,
+      "ip": "71.178.74.83"
+   },
+   {
+      "ssn": "736-04-5230",
+      "company": "Wikido",
+      "jobTitle": "Safety Technician III",
+      "willBeFired": false,
+      "ip": "115.55.199.21"
+   },
+   {
+      "ssn": "609-67-7747",
+      "company": "Jaxworks",
+      "jobTitle": "Account Representative IV",
+      "willBeFired": true,
+      "ip": "150.179.154.93"
+   },
+   {
+      "ssn": "434-68-4979",
+      "company": "Ailane",
+      "jobTitle": "Software Engineer I",
+      "willBeFired": false,
+      "ip": "60.108.70.77"
+   },
+   {
+      "ssn": "662-39-6013",
+      "company": "Babbleblab",
+      "jobTitle": "Technical Writer",
+      "willBeFired": false,
+      "ip": "47.67.172.215"
+   },
+   {
+      "ssn": "786-77-4512",
+      "company": "Browsedrive",
+      "jobTitle": "Marketing Assistant",
+      "willBeFired": false,
+      "ip": "156.118.88.138"
+   },
+   {
+      "ssn": "851-60-8115",
+      "company": "Zoozzy",
+      "jobTitle": "Editor",
+      "willBeFired": true,
+      "ip": "79.20.230.113"
+   },
+   {
+      "ssn": "893-91-1637",
+      "company": "Digitube",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": true,
+      "ip": "122.134.100.38"
+   },
+   {
+      "ssn": "244-34-0967",
+      "company": "Twitterlist",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": false,
+      "ip": "175.177.45.186"
+   },
+   {
+      "ssn": "316-03-0429",
+      "company": "Yodo",
+      "jobTitle": "Financial Advisor",
+      "willBeFired": false,
+      "ip": "111.248.201.165"
+   },
+   {
+      "ssn": "158-99-8136",
+      "company": "Thoughtworks",
+      "jobTitle": "Marketing Assistant",
+      "willBeFired": false,
+      "ip": "141.71.250.207"
+   },
+   {
+      "ssn": "417-75-7687",
+      "company": "Skiptube",
+      "jobTitle": "Web Designer IV",
+      "willBeFired": false,
+      "ip": "239.219.74.195"
+   },
+   {
+      "ssn": "811-62-9672",
+      "company": "Browseblab",
+      "jobTitle": "General Manager",
+      "willBeFired": true,
+      "ip": "204.185.170.243"
+   },
+   {
+      "ssn": "777-18-1230",
+      "company": "Dabfeed",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "98.242.126.3"
+   },
+   {
+      "ssn": "535-39-7255",
+      "company": "Fiveclub",
+      "jobTitle": "Electrical Engineer",
+      "willBeFired": false,
+      "ip": "112.250.193.143"
+   },
+   {
+      "ssn": "323-09-3761",
+      "company": "Shufflebeat",
+      "jobTitle": "Assistant Manager",
+      "willBeFired": false,
+      "ip": "52.34.192.136"
+   },
+   {
+      "ssn": "757-23-6508",
+      "company": "Thoughtstorm",
+      "jobTitle": "VP Sales",
+      "willBeFired": false,
+      "ip": "77.78.83.127"
+   },
+   {
+      "ssn": "715-19-2870",
+      "company": "Trudoo",
+      "jobTitle": "Pharmacist",
+      "willBeFired": false,
+      "ip": "16.196.138.46"
+   },
+   {
+      "ssn": "423-50-1979",
+      "company": "Dabvine",
+      "jobTitle": "Accounting Assistant III",
+      "willBeFired": false,
+      "ip": "85.166.91.165"
+   },
+   {
+      "ssn": "741-06-2188",
+      "company": "Edgeblab",
+      "jobTitle": "Engineer II",
+      "willBeFired": false,
+      "ip": "44.49.81.210"
+   },
+   {
+      "ssn": "662-85-0865",
+      "company": "Buzzster",
+      "jobTitle": "Actuary",
+      "willBeFired": true,
+      "ip": "233.242.151.68"
+   },
+   {
+      "ssn": "726-21-4491",
+      "company": "Youtags",
+      "jobTitle": "Human Resources Assistant IV",
+      "willBeFired": false,
+      "ip": "235.100.214.49"
+   },
+   {
+      "ssn": "368-71-8809",
+      "company": "Kamba",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": true,
+      "ip": "164.76.185.90"
+   },
+   {
+      "ssn": "515-17-0191",
+      "company": "Latz",
+      "jobTitle": "Administrative Officer",
+      "willBeFired": true,
+      "ip": "108.204.133.188"
+   },
+   {
+      "ssn": "200-58-5870",
+      "company": "Tambee",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": true,
+      "ip": "35.214.63.1"
+   },
+   {
+      "ssn": "622-91-0464",
+      "company": "Blogspan",
+      "jobTitle": "Internal Auditor",
+      "willBeFired": true,
+      "ip": "77.205.130.33"
+   },
+   {
+      "ssn": "384-09-8177",
+      "company": "Browsebug",
+      "jobTitle": "Director of Sales",
+      "willBeFired": false,
+      "ip": "192.200.12.226"
+   },
+   {
+      "ssn": "553-37-2147",
+      "company": "JumpXS",
+      "jobTitle": "Account Executive",
+      "willBeFired": false,
+      "ip": "94.183.85.142"
+   },
+   {
+      "ssn": "282-31-3306",
+      "company": "Twimm",
+      "jobTitle": "Assistant Professor",
+      "willBeFired": true,
+      "ip": "249.108.242.115"
+   },
+   {
+      "ssn": "738-29-6550",
+      "company": "Meejo",
+      "jobTitle": "Marketing Manager",
+      "willBeFired": false,
+      "ip": "79.70.229.111"
+   },
+   {
+      "ssn": "200-54-9969",
+      "company": "Livepath",
+      "jobTitle": "Nurse",
+      "willBeFired": false,
+      "ip": "38.210.235.27"
+   },
+   {
+      "ssn": "443-66-6241",
+      "company": "Gabcube",
+      "jobTitle": "Web Developer IV",
+      "willBeFired": true,
+      "ip": "27.17.21.163"
+   },
+   {
+      "ssn": "314-57-0712",
+      "company": "Camimbo",
+      "jobTitle": "Desktop Support Technician",
+      "willBeFired": false,
+      "ip": "30.70.73.116"
+   },
+   {
+      "ssn": "294-51-7562",
+      "company": "Meedoo",
+      "jobTitle": "Software Consultant",
+      "willBeFired": false,
+      "ip": "171.252.71.233"
+   },
+   {
+      "ssn": "574-12-2185",
+      "company": "Centimia",
+      "jobTitle": "Electrical Engineer",
+      "willBeFired": false,
+      "ip": "98.238.83.109"
+   },
+   {
+      "ssn": "860-21-6945",
+      "company": "Oozz",
+      "jobTitle": "VP Product Management",
+      "willBeFired": true,
+      "ip": "131.194.143.96"
+   },
+   {
+      "ssn": "434-87-6981",
+      "company": "Eazzy",
+      "jobTitle": "Chemical Engineer",
+      "willBeFired": true,
+      "ip": "111.33.59.89"
+   },
+   {
+      "ssn": "800-65-8726",
+      "company": "Tazzy",
+      "jobTitle": "Geologist II",
+      "willBeFired": true,
+      "ip": "23.104.75.31"
+   },
+   {
+      "ssn": "418-54-0664",
+      "company": "Oyoba",
+      "jobTitle": "Research Assistant II",
+      "willBeFired": true,
+      "ip": "65.138.139.120"
+   },
+   {
+      "ssn": "613-54-9806",
+      "company": "Zoombeat",
+      "jobTitle": "Analyst Programmer",
+      "willBeFired": false,
+      "ip": "235.193.5.106"
+   },
+   {
+      "ssn": "541-70-8771",
+      "company": "Katz",
+      "jobTitle": "Sales Representative",
+      "willBeFired": true,
+      "ip": "169.57.41.223"
+   },
+   {
+      "ssn": "263-64-8347",
+      "company": "Yata",
+      "jobTitle": "Software Test Engineer IV",
+      "willBeFired": true,
+      "ip": "13.33.76.59"
+   },
+   {
+      "ssn": "487-73-9558",
+      "company": "Skibox",
+      "jobTitle": "Programmer IV",
+      "willBeFired": false,
+      "ip": "46.176.181.251"
+   },
+   {
+      "ssn": "709-24-8900",
+      "company": "Eabox",
+      "jobTitle": "Staff Scientist",
+      "willBeFired": false,
+      "ip": "103.205.248.131"
+   },
+   {
+      "ssn": "618-19-8757",
+      "company": "Brightdog",
+      "jobTitle": "Account Coordinator",
+      "willBeFired": false,
+      "ip": "193.186.192.153"
+   },
+   {
+      "ssn": "522-14-5822",
+      "company": "Leexo",
+      "jobTitle": "VP Marketing",
+      "willBeFired": true,
+      "ip": "146.196.144.174"
+   },
+   {
+      "ssn": "330-90-2717",
+      "company": "Eare",
+      "jobTitle": "Quality Control Specialist",
+      "willBeFired": false,
+      "ip": "134.97.10.138"
+   },
+   {
+      "ssn": "891-63-0516",
+      "company": "Youspan",
+      "jobTitle": "Help Desk Technician",
+      "willBeFired": true,
+      "ip": "210.79.59.118"
+   },
+   {
+      "ssn": "822-68-8620",
+      "company": "Jamia",
+      "jobTitle": "Chief Design Engineer",
+      "willBeFired": true,
+      "ip": "240.174.189.83"
+   },
+   {
+      "ssn": "781-92-6777",
+      "company": "Realpoint",
+      "jobTitle": "Research Associate",
+      "willBeFired": true,
+      "ip": "156.15.15.57"
+   },
+   {
+      "ssn": "654-08-5532",
+      "company": "Photobean",
+      "jobTitle": "Account Representative II",
+      "willBeFired": false,
+      "ip": "120.185.28.245"
+   },
+   {
+      "ssn": "296-38-7738",
+      "company": "Topiczoom",
+      "jobTitle": "Nurse",
+      "willBeFired": false,
+      "ip": "91.67.32.38"
+   },
+   {
+      "ssn": "570-53-0281",
+      "company": "Quinu",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": false,
+      "ip": "190.45.74.169"
+   },
+   {
+      "ssn": "402-61-1133",
+      "company": "Yakidoo",
+      "jobTitle": "VP Product Management",
+      "willBeFired": true,
+      "ip": "239.185.86.196"
+   },
+   {
+      "ssn": "539-97-9870",
+      "company": "Thoughtstorm",
+      "jobTitle": "Paralegal",
+      "willBeFired": true,
+      "ip": "236.37.93.21"
+   },
+   {
+      "ssn": "882-39-5080",
+      "company": "Ailane",
+      "jobTitle": "Engineer IV",
+      "willBeFired": false,
+      "ip": "117.74.31.50"
+   },
+   {
+      "ssn": "579-77-3203",
+      "company": "Mita",
+      "jobTitle": "Office Assistant III",
+      "willBeFired": true,
+      "ip": "109.201.230.88"
+   },
+   {
+      "ssn": "489-44-9981",
+      "company": "Skiba",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "128.98.122.125"
+   },
+   {
+      "ssn": "779-68-0170",
+      "company": "Realmix",
+      "jobTitle": "Information Systems Manager",
+      "willBeFired": false,
+      "ip": "65.90.105.213"
+   },
+   {
+      "ssn": "726-52-8327",
+      "company": "Jatri",
+      "jobTitle": "Accounting Assistant II",
+      "willBeFired": true,
+      "ip": "48.122.236.117"
+   },
+   {
+      "ssn": "663-93-8292",
+      "company": "Oyoba",
+      "jobTitle": "Payment Adjustment Coordinator",
+      "willBeFired": true,
+      "ip": "216.243.54.174"
+   },
+   {
+      "ssn": "799-03-7814",
+      "company": "Meetz",
+      "jobTitle": "Web Designer II",
+      "willBeFired": true,
+      "ip": "9.236.113.98"
+   },
+   {
+      "ssn": "527-98-8807",
+      "company": "Snaptags",
+      "jobTitle": "VP Accounting",
+      "willBeFired": false,
+      "ip": "46.100.33.237"
+   },
+   {
+      "ssn": "857-80-2981",
+      "company": "Yodo",
+      "jobTitle": "Senior Quality Engineer",
+      "willBeFired": false,
+      "ip": "108.247.79.188"
+   },
+   {
+      "ssn": "503-86-2726",
+      "company": "Eidel",
+      "jobTitle": "VP Quality Control",
+      "willBeFired": true,
+      "ip": "249.45.187.123"
+   },
+   {
+      "ssn": "738-05-7747",
+      "company": "Quatz",
+      "jobTitle": "Nurse",
+      "willBeFired": true,
+      "ip": "32.7.184.3"
+   },
+   {
+      "ssn": "245-54-1579",
+      "company": "Leenti",
+      "jobTitle": "Product Engineer",
+      "willBeFired": false,
+      "ip": "32.143.30.242"
+   },
+   {
+      "ssn": "124-17-2066",
+      "company": "Topiclounge",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "63.60.219.13"
+   },
+   {
+      "ssn": "227-59-0803",
+      "company": "Twinte",
+      "jobTitle": "VP Sales",
+      "willBeFired": false,
+      "ip": "150.164.183.119"
+   },
+   {
+      "ssn": "823-37-9806",
+      "company": "Thoughtstorm",
+      "jobTitle": "Account Representative II",
+      "willBeFired": true,
+      "ip": "57.197.186.241"
+   },
+   {
+      "ssn": "138-80-7415",
+      "company": "Wordpedia",
+      "jobTitle": "Account Representative II",
+      "willBeFired": false,
+      "ip": "220.91.39.206"
+   },
+   {
+      "ssn": "524-63-2006",
+      "company": "Tambee",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": true,
+      "ip": "125.118.138.224"
+   },
+   {
+      "ssn": "593-49-8178",
+      "company": "Quinu",
+      "jobTitle": "Account Executive",
+      "willBeFired": false,
+      "ip": "138.186.107.29"
+   },
+   {
+      "ssn": "190-28-2545",
+      "company": "Jaxnation",
+      "jobTitle": "Civil Engineer",
+      "willBeFired": false,
+      "ip": "62.52.62.32"
+   },
+   {
+      "ssn": "668-02-6077",
+      "company": "Fivebridge",
+      "jobTitle": "Senior Editor",
+      "willBeFired": true,
+      "ip": "113.24.90.245"
+   },
+   {
+      "ssn": "438-58-8869",
+      "company": "Lazz",
+      "jobTitle": "Research Assistant I",
+      "willBeFired": false,
+      "ip": "191.108.31.95"
+   },
+   {
+      "ssn": "524-16-5391",
+      "company": "Wordify",
+      "jobTitle": "Safety Technician IV",
+      "willBeFired": true,
+      "ip": "237.187.241.49"
+   },
+   {
+      "ssn": "824-98-3630",
+      "company": "Thoughtworks",
+      "jobTitle": "Web Developer I",
+      "willBeFired": true,
+      "ip": "20.29.30.177"
+   },
+   {
+      "ssn": "170-91-7685",
+      "company": "Mycat",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": true,
+      "ip": "54.232.175.165"
+   },
+   {
+      "ssn": "402-43-9537",
+      "company": "Jaxnation",
+      "jobTitle": "Assistant Media Planner",
+      "willBeFired": true,
+      "ip": "167.74.20.122"
+   },
+   {
+      "ssn": "546-36-8899",
+      "company": "Realfire",
+      "jobTitle": "Executive Secretary",
+      "willBeFired": false,
+      "ip": "34.187.32.78"
+   },
+   {
+      "ssn": "557-38-9649",
+      "company": "Fivechat",
+      "jobTitle": "Sales Representative",
+      "willBeFired": false,
+      "ip": "34.79.57.254"
+   },
+   {
+      "ssn": "409-34-9361",
+      "company": "Skajo",
+      "jobTitle": "Financial Analyst",
+      "willBeFired": true,
+      "ip": "49.246.23.160"
+   },
+   {
+      "ssn": "304-47-6602",
+      "company": "Jamia",
+      "jobTitle": "Cost Accountant",
+      "willBeFired": true,
+      "ip": "29.56.243.110"
+   },
+   {
+      "ssn": "396-91-7686",
+      "company": "Meemm",
+      "jobTitle": "Professor",
+      "willBeFired": true,
+      "ip": "232.87.139.166"
+   },
+   {
+      "ssn": "361-10-1405",
+      "company": "Meevee",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": false,
+      "ip": "226.232.225.140"
+   },
+   {
+      "ssn": "712-71-1354",
+      "company": "Abatz",
+      "jobTitle": "Office Assistant II",
+      "willBeFired": true,
+      "ip": "146.143.242.35"
+   },
+   {
+      "ssn": "387-31-9038",
+      "company": "Mydeo",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "245.60.101.238"
+   },
+   {
+      "ssn": "672-59-5749",
+      "company": "Divape",
+      "jobTitle": "Pharmacist",
+      "willBeFired": false,
+      "ip": "191.241.150.116"
+   },
+   {
+      "ssn": "413-34-9706",
+      "company": "Aimbu",
+      "jobTitle": "Compensation Analyst",
+      "willBeFired": false,
+      "ip": "133.182.162.134"
+   },
+   {
+      "ssn": "412-17-1425",
+      "company": "Babbleopia",
+      "jobTitle": "Health Coach III",
+      "willBeFired": true,
+      "ip": "155.182.164.143"
+   },
+   {
+      "ssn": "158-76-2178",
+      "company": "Skimia",
+      "jobTitle": "Programmer Analyst I",
+      "willBeFired": true,
+      "ip": "249.100.230.24"
+   },
+   {
+      "ssn": "329-35-9168",
+      "company": "Demizz",
+      "jobTitle": "Librarian",
+      "willBeFired": false,
+      "ip": "204.181.113.252"
+   },
+   {
+      "ssn": "614-41-2366",
+      "company": "Ntag",
+      "jobTitle": "Chemical Engineer",
+      "willBeFired": false,
+      "ip": "245.181.10.144"
+   },
+   {
+      "ssn": "789-72-9340",
+      "company": "Wordware",
+      "jobTitle": "Health Coach III",
+      "willBeFired": false,
+      "ip": "84.254.213.117"
+   },
+   {
+      "ssn": "743-13-3405",
+      "company": "Livefish",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "5.37.70.47"
+   },
+   {
+      "ssn": "293-04-2502",
+      "company": "Feedfire",
+      "jobTitle": "Sales Representative",
+      "willBeFired": false,
+      "ip": "1.207.229.107"
+   },
+   {
+      "ssn": "600-32-4162",
+      "company": "Flashspan",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": true,
+      "ip": "93.157.180.93"
+   },
+   {
+      "ssn": "113-09-8028",
+      "company": "Skynoodle",
+      "jobTitle": "Chemical Engineer",
+      "willBeFired": false,
+      "ip": "25.112.45.141"
+   },
+   {
+      "ssn": "218-82-3406",
+      "company": "Eidel",
+      "jobTitle": "Editor",
+      "willBeFired": false,
+      "ip": "97.193.32.16"
+   },
+   {
+      "ssn": "868-08-9906",
+      "company": "Camimbo",
+      "jobTitle": "Associate Professor",
+      "willBeFired": false,
+      "ip": "11.75.118.197"
+   },
+   {
+      "ssn": "437-36-8614",
+      "company": "Aibox",
+      "jobTitle": "Account Representative I",
+      "willBeFired": false,
+      "ip": "235.130.64.244"
+   },
+   {
+      "ssn": "575-37-5713",
+      "company": "Browsebug",
+      "jobTitle": "Biostatistician III",
+      "willBeFired": true,
+      "ip": "186.74.179.165"
+   },
+   {
+      "ssn": "196-85-0118",
+      "company": "Blogtags",
+      "jobTitle": "Administrative Assistant II",
+      "willBeFired": true,
+      "ip": "112.98.36.5"
+   },
+   {
+      "ssn": "787-69-4730",
+      "company": "Wikivu",
+      "jobTitle": "Physical Therapy Assistant",
+      "willBeFired": false,
+      "ip": "191.136.181.27"
+   },
+   {
+      "ssn": "676-45-8124",
+      "company": "Dabshots",
+      "jobTitle": "Paralegal",
+      "willBeFired": false,
+      "ip": "2.180.33.16"
+   },
+   {
+      "ssn": "291-92-1946",
+      "company": "Dabfeed",
+      "jobTitle": "Office Assistant III",
+      "willBeFired": false,
+      "ip": "149.178.57.126"
+   },
+   {
+      "ssn": "856-46-5071",
+      "company": "Browsecat",
+      "jobTitle": "Accounting Assistant IV",
+      "willBeFired": false,
+      "ip": "36.250.161.54"
+   },
+   {
+      "ssn": "670-95-6869",
+      "company": "Skyba",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": false,
+      "ip": "133.208.124.249"
+   },
+   {
+      "ssn": "466-03-5755",
+      "company": "Jabbercube",
+      "jobTitle": "Programmer Analyst III",
+      "willBeFired": false,
+      "ip": "40.159.180.109"
+   },
+   {
+      "ssn": "886-91-2717",
+      "company": "Gabtune",
+      "jobTitle": "Office Assistant III",
+      "willBeFired": true,
+      "ip": "93.32.161.114"
+   },
+   {
+      "ssn": "258-06-5316",
+      "company": "Rhynyx",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": true,
+      "ip": "113.136.17.42"
+   },
+   {
+      "ssn": "794-63-4576",
+      "company": "Eare",
+      "jobTitle": "Senior Developer",
+      "willBeFired": false,
+      "ip": "81.158.41.235"
+   },
+   {
+      "ssn": "499-68-0250",
+      "company": "Jayo",
+      "jobTitle": "GIS Technical Architect",
+      "willBeFired": false,
+      "ip": "216.128.229.122"
+   },
+   {
+      "ssn": "241-35-6393",
+      "company": "Skippad",
+      "jobTitle": "Social Worker",
+      "willBeFired": true,
+      "ip": "211.85.187.20"
+   },
+   {
+      "ssn": "129-37-6183",
+      "company": "Kamba",
+      "jobTitle": "Product Engineer",
+      "willBeFired": true,
+      "ip": "108.17.53.23"
+   },
+   {
+      "ssn": "859-55-5488",
+      "company": "Feednation",
+      "jobTitle": "Senior Financial Analyst",
+      "willBeFired": true,
+      "ip": "79.117.237.250"
+   },
+   {
+      "ssn": "240-32-4284",
+      "company": "Brightbean",
+      "jobTitle": "Administrative Assistant IV",
+      "willBeFired": false,
+      "ip": "35.168.80.28"
+   },
+   {
+      "ssn": "367-75-8422",
+      "company": "Thoughtbridge",
+      "jobTitle": "Financial Advisor",
+      "willBeFired": false,
+      "ip": "199.190.189.214"
+   },
+   {
+      "ssn": "451-71-7375",
+      "company": "Yadel",
+      "jobTitle": "Software Test Engineer I",
+      "willBeFired": true,
+      "ip": "211.120.235.220"
+   },
+   {
+      "ssn": "834-21-3511",
+      "company": "Bubblebox",
+      "jobTitle": "Editor",
+      "willBeFired": true,
+      "ip": "27.135.29.39"
+   },
+   {
+      "ssn": "865-20-5915",
+      "company": "Quimba",
+      "jobTitle": "Senior Editor",
+      "willBeFired": false,
+      "ip": "48.10.71.246"
+   },
+   {
+      "ssn": "734-73-0378",
+      "company": "Voonder",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": true,
+      "ip": "198.213.142.46"
+   },
+   {
+      "ssn": "550-12-2682",
+      "company": "Realfire",
+      "jobTitle": "Cost Accountant",
+      "willBeFired": false,
+      "ip": "64.31.11.57"
+   },
+   {
+      "ssn": "200-94-1580",
+      "company": "Dazzlesphere",
+      "jobTitle": "Administrative Assistant I",
+      "willBeFired": false,
+      "ip": "202.160.180.124"
+   },
+   {
+      "ssn": "721-14-0343",
+      "company": "Linkbridge",
+      "jobTitle": "Speech Pathologist",
+      "willBeFired": true,
+      "ip": "141.238.212.136"
+   },
+   {
+      "ssn": "577-23-7178",
+      "company": "Topicshots",
+      "jobTitle": "Teacher",
+      "willBeFired": false,
+      "ip": "51.161.35.151"
+   },
+   {
+      "ssn": "881-73-0357",
+      "company": "Meembee",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "8.41.145.200"
+   },
+   {
+      "ssn": "884-64-4615",
+      "company": "Roomm",
+      "jobTitle": "Desktop Support Technician",
+      "willBeFired": true,
+      "ip": "19.125.38.46"
+   },
+   {
+      "ssn": "787-41-9060",
+      "company": "Dazzlesphere",
+      "jobTitle": "Staff Scientist",
+      "willBeFired": false,
+      "ip": "221.161.66.52"
+   },
+   {
+      "ssn": "479-74-4681",
+      "company": "Eamia",
+      "jobTitle": "Safety Technician III",
+      "willBeFired": true,
+      "ip": "97.202.239.158"
+   },
+   {
+      "ssn": "770-86-3212",
+      "company": "Kare",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "158.11.108.104"
+   },
+   {
+      "ssn": "606-10-5831",
+      "company": "Linkbridge",
+      "jobTitle": "Computer Systems Analyst IV",
+      "willBeFired": false,
+      "ip": "163.59.207.153"
+   },
+   {
+      "ssn": "875-65-8670",
+      "company": "Vinder",
+      "jobTitle": "Recruiter",
+      "willBeFired": false,
+      "ip": "242.156.136.182"
+   },
+   {
+      "ssn": "475-62-3310",
+      "company": "Fadeo",
+      "jobTitle": "Paralegal",
+      "willBeFired": false,
+      "ip": "23.199.226.241"
+   },
+   {
+      "ssn": "720-99-7902",
+      "company": "Agimba",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "234.91.148.172"
+   },
+   {
+      "ssn": "672-53-5901",
+      "company": "Blogtag",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": false,
+      "ip": "79.137.166.136"
+   },
+   {
+      "ssn": "558-96-1423",
+      "company": "Thoughtbeat",
+      "jobTitle": "Administrative Officer",
+      "willBeFired": false,
+      "ip": "87.157.98.4"
+   },
+   {
+      "ssn": "829-59-7208",
+      "company": "Shuffletag",
+      "jobTitle": "Accounting Assistant II",
+      "willBeFired": true,
+      "ip": "247.73.210.69"
+   },
+   {
+      "ssn": "339-99-0060",
+      "company": "Gabspot",
+      "jobTitle": "Graphic Designer",
+      "willBeFired": true,
+      "ip": "118.164.206.104"
+   },
+   {
+      "ssn": "734-18-1586",
+      "company": "Fliptune",
+      "jobTitle": "Quality Control Specialist",
+      "willBeFired": true,
+      "ip": "218.179.109.249"
+   },
+   {
+      "ssn": "715-12-9024",
+      "company": "Gigazoom",
+      "jobTitle": "Sales Representative",
+      "willBeFired": true,
+      "ip": "49.38.80.105"
+   },
+   {
+      "ssn": "673-24-9562",
+      "company": "Feedbug",
+      "jobTitle": "Administrative Officer",
+      "willBeFired": false,
+      "ip": "138.239.27.73"
+   },
+   {
+      "ssn": "501-09-3378",
+      "company": "Skynoodle",
+      "jobTitle": "Librarian",
+      "willBeFired": true,
+      "ip": "14.71.11.135"
+   },
+   {
+      "ssn": "612-06-9047",
+      "company": "Flashpoint",
+      "jobTitle": "Sales Representative",
+      "willBeFired": false,
+      "ip": "0.200.160.165"
+   },
+   {
+      "ssn": "787-38-5570",
+      "company": "Riffpath",
+      "jobTitle": "Senior Cost Accountant",
+      "willBeFired": false,
+      "ip": "218.227.82.14"
+   },
+   {
+      "ssn": "706-41-9024",
+      "company": "Meemm",
+      "jobTitle": "Information Systems Manager",
+      "willBeFired": false,
+      "ip": "115.124.158.6"
+   },
+   {
+      "ssn": "404-41-3012",
+      "company": "Skyndu",
+      "jobTitle": "Sales Representative",
+      "willBeFired": true,
+      "ip": "122.163.187.49"
+   },
+   {
+      "ssn": "361-81-3627",
+      "company": "Zooveo",
+      "jobTitle": "Software Consultant",
+      "willBeFired": false,
+      "ip": "226.128.95.47"
+   },
+   {
+      "ssn": "646-11-9984",
+      "company": "Aimbo",
+      "jobTitle": "Speech Pathologist",
+      "willBeFired": false,
+      "ip": "152.7.64.233"
+   },
+   {
+      "ssn": "821-70-9384",
+      "company": "Pixonyx",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": false,
+      "ip": "250.93.15.199"
+   },
+   {
+      "ssn": "201-74-6568",
+      "company": "BlogXS",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": false,
+      "ip": "66.29.223.177"
+   },
+   {
+      "ssn": "659-55-3647",
+      "company": "Topiczoom",
+      "jobTitle": "Director of Sales",
+      "willBeFired": false,
+      "ip": "196.254.28.227"
+   },
+   {
+      "ssn": "544-51-0970",
+      "company": "Centidel",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "117.133.206.105"
+   },
+   {
+      "ssn": "408-50-2763",
+      "company": "Skimia",
+      "jobTitle": "Nuclear Power Engineer",
+      "willBeFired": true,
+      "ip": "232.144.105.125"
+   },
+   {
+      "ssn": "848-41-3357",
+      "company": "Youbridge",
+      "jobTitle": "Technical Writer",
+      "willBeFired": true,
+      "ip": "128.124.192.39"
+   },
+   {
+      "ssn": "557-53-8109",
+      "company": "Yodo",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": false,
+      "ip": "44.162.161.133"
+   },
+   {
+      "ssn": "752-21-8132",
+      "company": "Quatz",
+      "jobTitle": "Sales Associate",
+      "willBeFired": true,
+      "ip": "97.148.20.181"
+   },
+   {
+      "ssn": "847-65-9347",
+      "company": "Dynava",
+      "jobTitle": "Design Engineer",
+      "willBeFired": false,
+      "ip": "147.142.140.251"
+   },
+   {
+      "ssn": "399-76-2782",
+      "company": "Youspan",
+      "jobTitle": "Senior Cost Accountant",
+      "willBeFired": true,
+      "ip": "197.49.63.234"
+   },
+   {
+      "ssn": "843-12-1191",
+      "company": "Skynoodle",
+      "jobTitle": "Sales Associate",
+      "willBeFired": false,
+      "ip": "60.22.7.34"
+   },
+   {
+      "ssn": "230-42-6765",
+      "company": "DabZ",
+      "jobTitle": "Senior Quality Engineer",
+      "willBeFired": false,
+      "ip": "160.67.120.229"
+   },
+   {
+      "ssn": "841-08-0201",
+      "company": "Bubblebox",
+      "jobTitle": "Web Developer III",
+      "willBeFired": true,
+      "ip": "126.63.179.232"
+   },
+   {
+      "ssn": "614-87-7732",
+      "company": "Livefish",
+      "jobTitle": "Web Designer IV",
+      "willBeFired": true,
+      "ip": "98.146.184.222"
+   },
+   {
+      "ssn": "293-33-1434",
+      "company": "Buzzshare",
+      "jobTitle": "Office Assistant I",
+      "willBeFired": false,
+      "ip": "204.213.3.23"
+   },
+   {
+      "ssn": "776-26-2120",
+      "company": "Twitterlist",
+      "jobTitle": "VP Quality Control",
+      "willBeFired": false,
+      "ip": "157.254.170.156"
+   },
+   {
+      "ssn": "427-07-3199",
+      "company": "Quimba",
+      "jobTitle": "Legal Assistant",
+      "willBeFired": true,
+      "ip": "95.173.49.99"
+   },
+   {
+      "ssn": "280-27-2649",
+      "company": "Meeveo",
+      "jobTitle": "Accounting Assistant I",
+      "willBeFired": false,
+      "ip": "66.250.11.27"
+   },
+   {
+      "ssn": "740-21-6799",
+      "company": "Flashpoint",
+      "jobTitle": "Research Nurse",
+      "willBeFired": true,
+      "ip": "114.69.161.206"
+   },
+   {
+      "ssn": "674-94-1924",
+      "company": "Devbug",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": false,
+      "ip": "147.177.35.226"
+   },
+   {
+      "ssn": "416-18-7533",
+      "company": "Gabtune",
+      "jobTitle": "Paralegal",
+      "willBeFired": true,
+      "ip": "205.174.34.98"
+   },
+   {
+      "ssn": "684-64-1276",
+      "company": "Kayveo",
+      "jobTitle": "GIS Technical Architect",
+      "willBeFired": true,
+      "ip": "81.234.54.105"
+   },
+   {
+      "ssn": "840-76-2589",
+      "company": "Skyndu",
+      "jobTitle": "Sales Associate",
+      "willBeFired": false,
+      "ip": "136.68.178.243"
+   },
+   {
+      "ssn": "644-38-2684",
+      "company": "Fadeo",
+      "jobTitle": "Junior Executive",
+      "willBeFired": false,
+      "ip": "186.118.214.242"
+   },
+   {
+      "ssn": "404-17-2831",
+      "company": "Photofeed",
+      "jobTitle": "Office Assistant IV",
+      "willBeFired": true,
+      "ip": "196.95.246.185"
+   },
+   {
+      "ssn": "182-13-5116",
+      "company": "Feedfish",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": false,
+      "ip": "251.44.6.172"
+   },
+   {
+      "ssn": "220-87-7991",
+      "company": "Shufflester",
+      "jobTitle": "Registered Nurse",
+      "willBeFired": true,
+      "ip": "59.163.97.127"
+   },
+   {
+      "ssn": "164-59-5524",
+      "company": "Dynabox",
+      "jobTitle": "Senior Developer",
+      "willBeFired": false,
+      "ip": "247.68.66.130"
+   },
+   {
+      "ssn": "813-34-9596",
+      "company": "Dablist",
+      "jobTitle": "GIS Technical Architect",
+      "willBeFired": true,
+      "ip": "70.112.247.164"
+   },
+   {
+      "ssn": "619-40-1000",
+      "company": "Aimbo",
+      "jobTitle": "Junior Executive",
+      "willBeFired": false,
+      "ip": "173.31.135.108"
+   },
+   {
+      "ssn": "175-50-9625",
+      "company": "Meemm",
+      "jobTitle": "Professor",
+      "willBeFired": true,
+      "ip": "98.167.32.33"
+   },
+   {
+      "ssn": "261-42-0836",
+      "company": "Oyope",
+      "jobTitle": "VP Marketing",
+      "willBeFired": false,
+      "ip": "65.30.198.180"
+   },
+   {
+      "ssn": "672-25-7569",
+      "company": "Jetpulse",
+      "jobTitle": "Dental Hygienist",
+      "willBeFired": false,
+      "ip": "168.239.65.159"
+   },
+   {
+      "ssn": "350-78-8346",
+      "company": "Fliptune",
+      "jobTitle": "Executive Secretary",
+      "willBeFired": false,
+      "ip": "51.156.211.105"
+   },
+   {
+      "ssn": "375-03-1800",
+      "company": "Twiyo",
+      "jobTitle": "Food Chemist",
+      "willBeFired": false,
+      "ip": "223.239.255.198"
+   },
+   {
+      "ssn": "230-20-5172",
+      "company": "Rhynoodle",
+      "jobTitle": "Chief Design Engineer",
+      "willBeFired": true,
+      "ip": "10.225.175.100"
+   },
+   {
+      "ssn": "554-21-2652",
+      "company": "Photobug",
+      "jobTitle": "Software Consultant",
+      "willBeFired": true,
+      "ip": "38.98.117.98"
+   },
+   {
+      "ssn": "643-53-1883",
+      "company": "Quimm",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": true,
+      "ip": "22.238.170.147"
+   },
+   {
+      "ssn": "134-01-5819",
+      "company": "Oodoo",
+      "jobTitle": "Registered Nurse",
+      "willBeFired": false,
+      "ip": "36.0.176.198"
+   },
+   {
+      "ssn": "565-23-3600",
+      "company": "Photobug",
+      "jobTitle": "Database Administrator IV",
+      "willBeFired": true,
+      "ip": "46.151.206.123"
+   },
+   {
+      "ssn": "283-19-9811",
+      "company": "Devpoint",
+      "jobTitle": "Automation Specialist III",
+      "willBeFired": true,
+      "ip": "93.177.18.7"
+   },
+   {
+      "ssn": "192-40-6735",
+      "company": "Eabox",
+      "jobTitle": "Accountant IV",
+      "willBeFired": false,
+      "ip": "229.78.189.214"
+   },
+   {
+      "ssn": "740-51-8168",
+      "company": "Browsetype",
+      "jobTitle": "Web Developer IV",
+      "willBeFired": true,
+      "ip": "227.66.244.51"
+   },
+   {
+      "ssn": "398-55-5050",
+      "company": "Topicblab",
+      "jobTitle": "Pharmacist",
+      "willBeFired": true,
+      "ip": "231.227.172.56"
+   },
+   {
+      "ssn": "659-72-0479",
+      "company": "Twitterwire",
+      "jobTitle": "Senior Quality Engineer",
+      "willBeFired": true,
+      "ip": "98.143.79.214"
+   },
+   {
+      "ssn": "139-95-1122",
+      "company": "Divape",
+      "jobTitle": "Health Coach I",
+      "willBeFired": true,
+      "ip": "108.250.228.223"
+   },
+   {
+      "ssn": "456-29-2210",
+      "company": "Eire",
+      "jobTitle": "Human Resources Assistant I",
+      "willBeFired": true,
+      "ip": "204.252.158.4"
+   },
+   {
+      "ssn": "192-86-7020",
+      "company": "Shuffletag",
+      "jobTitle": "General Manager",
+      "willBeFired": false,
+      "ip": "219.132.171.129"
+   },
+   {
+      "ssn": "153-53-0457",
+      "company": "Kazu",
+      "jobTitle": "Budget/Accounting Analyst IV",
+      "willBeFired": true,
+      "ip": "64.72.231.235"
+   },
+   {
+      "ssn": "847-11-3553",
+      "company": "Realpoint",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": false,
+      "ip": "239.153.224.193"
+   },
+   {
+      "ssn": "620-25-6713",
+      "company": "Quimm",
+      "jobTitle": "Librarian",
+      "willBeFired": false,
+      "ip": "153.155.14.239"
+   },
+   {
+      "ssn": "731-29-4373",
+      "company": "Buzzster",
+      "jobTitle": "Senior Quality Engineer",
+      "willBeFired": false,
+      "ip": "157.158.193.138"
+   },
+   {
+      "ssn": "674-78-0547",
+      "company": "Podcat",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": false,
+      "ip": "29.90.20.212"
+   },
+   {
+      "ssn": "722-11-8749",
+      "company": "Wikibox",
+      "jobTitle": "Librarian",
+      "willBeFired": true,
+      "ip": "32.3.234.251"
+   },
+   {
+      "ssn": "219-50-4801",
+      "company": "Yata",
+      "jobTitle": "Chemical Engineer",
+      "willBeFired": false,
+      "ip": "35.129.232.224"
+   },
+   {
+      "ssn": "398-65-3638",
+      "company": "Lazzy",
+      "jobTitle": "Senior Editor",
+      "willBeFired": false,
+      "ip": "228.135.15.36"
+   },
+   {
+      "ssn": "708-60-1067",
+      "company": "Pixope",
+      "jobTitle": "Research Associate",
+      "willBeFired": true,
+      "ip": "192.181.33.186"
+   },
+   {
+      "ssn": "807-98-9121",
+      "company": "Meeveo",
+      "jobTitle": "Office Assistant I",
+      "willBeFired": false,
+      "ip": "72.205.190.50"
+   },
+   {
+      "ssn": "231-99-4332",
+      "company": "Photolist",
+      "jobTitle": "Accountant III",
+      "willBeFired": true,
+      "ip": "247.88.121.95"
+   },
+   {
+      "ssn": "682-07-0626",
+      "company": "Camido",
+      "jobTitle": "Marketing Manager",
+      "willBeFired": false,
+      "ip": "193.130.121.33"
+   },
+   {
+      "ssn": "177-84-2552",
+      "company": "Omba",
+      "jobTitle": "Legal Assistant",
+      "willBeFired": false,
+      "ip": "59.103.143.211"
+   },
+   {
+      "ssn": "377-66-4225",
+      "company": "Tavu",
+      "jobTitle": "Food Chemist",
+      "willBeFired": true,
+      "ip": "136.67.30.167"
+   },
+   {
+      "ssn": "849-39-4394",
+      "company": "Shufflebeat",
+      "jobTitle": "Civil Engineer",
+      "willBeFired": false,
+      "ip": "137.150.174.138"
+   },
+   {
+      "ssn": "646-95-6359",
+      "company": "Cogidoo",
+      "jobTitle": "Geological Engineer",
+      "willBeFired": false,
+      "ip": "67.221.181.225"
+   },
+   {
+      "ssn": "757-26-9265",
+      "company": "Zazio",
+      "jobTitle": "Computer Systems Analyst IV",
+      "willBeFired": true,
+      "ip": "123.255.120.83"
+   },
+   {
+      "ssn": "539-06-8882",
+      "company": "Chatterbridge",
+      "jobTitle": "Clinical Specialist",
+      "willBeFired": false,
+      "ip": "189.183.84.70"
+   },
+   {
+      "ssn": "171-80-2907",
+      "company": "Trilith",
+      "jobTitle": "Structural Engineer",
+      "willBeFired": true,
+      "ip": "240.55.94.30"
+   },
+   {
+      "ssn": "116-75-8387",
+      "company": "Gabcube",
+      "jobTitle": "Marketing Manager",
+      "willBeFired": true,
+      "ip": "157.190.184.92"
+   },
+   {
+      "ssn": "240-30-5262",
+      "company": "Tagcat",
+      "jobTitle": "Accountant I",
+      "willBeFired": true,
+      "ip": "158.253.221.137"
+   },
+   {
+      "ssn": "602-32-4954",
+      "company": "Wordtune",
+      "jobTitle": "Editor",
+      "willBeFired": false,
+      "ip": "209.19.242.190"
+   },
+   {
+      "ssn": "738-26-8531",
+      "company": "Demizz",
+      "jobTitle": "Mechanical Systems Engineer",
+      "willBeFired": true,
+      "ip": "231.0.26.214"
+   },
+   {
+      "ssn": "711-72-7181",
+      "company": "Mybuzz",
+      "jobTitle": "Account Representative I",
+      "willBeFired": false,
+      "ip": "129.114.170.117"
+   },
+   {
+      "ssn": "757-48-9475",
+      "company": "Oyonder",
+      "jobTitle": "Editor",
+      "willBeFired": true,
+      "ip": "64.13.71.48"
+   },
+   {
+      "ssn": "166-38-6429",
+      "company": "Trilith",
+      "jobTitle": "Recruiter",
+      "willBeFired": true,
+      "ip": "63.29.24.28"
+   },
+   {
+      "ssn": "676-67-0092",
+      "company": "Thoughtstorm",
+      "jobTitle": "VP Product Management",
+      "willBeFired": false,
+      "ip": "172.26.78.58"
+   },
+   {
+      "ssn": "192-27-9160",
+      "company": "Zooxo",
+      "jobTitle": "Pharmacist",
+      "willBeFired": false,
+      "ip": "246.82.183.47"
+   },
+   {
+      "ssn": "441-42-2671",
+      "company": "Mydo",
+      "jobTitle": "Statistician III",
+      "willBeFired": false,
+      "ip": "190.156.252.85"
+   },
+   {
+      "ssn": "541-40-6416",
+      "company": "Oyope",
+      "jobTitle": "Technical Writer",
+      "willBeFired": false,
+      "ip": "104.38.149.145"
+   },
+   {
+      "ssn": "532-53-2606",
+      "company": "Jayo",
+      "jobTitle": "Payment Adjustment Coordinator",
+      "willBeFired": false,
+      "ip": "218.38.53.93"
+   },
+   {
+      "ssn": "302-45-9097",
+      "company": "Camido",
+      "jobTitle": "Speech Pathologist",
+      "willBeFired": true,
+      "ip": "224.158.247.223"
+   },
+   {
+      "ssn": "115-25-3323",
+      "company": "Midel",
+      "jobTitle": "Biostatistician II",
+      "willBeFired": false,
+      "ip": "45.100.132.206"
+   },
+   {
+      "ssn": "558-36-7716",
+      "company": "Cogilith",
+      "jobTitle": "Senior Editor",
+      "willBeFired": false,
+      "ip": "246.4.108.78"
+   },
+   {
+      "ssn": "769-28-5889",
+      "company": "Meevee",
+      "jobTitle": "Media Manager III",
+      "willBeFired": false,
+      "ip": "245.224.206.246"
+   },
+   {
+      "ssn": "487-88-8748",
+      "company": "Feedspan",
+      "jobTitle": "Associate Professor",
+      "willBeFired": true,
+      "ip": "137.56.193.13"
+   },
+   {
+      "ssn": "831-32-1847",
+      "company": "Realbridge",
+      "jobTitle": "Business Systems Development Analyst",
+      "willBeFired": false,
+      "ip": "156.39.170.29"
+   },
+   {
+      "ssn": "859-39-3254",
+      "company": "Kwimbee",
+      "jobTitle": "Senior Financial Analyst",
+      "willBeFired": false,
+      "ip": "172.168.26.181"
+   },
+   {
+      "ssn": "476-72-8070",
+      "company": "Edgeblab",
+      "jobTitle": "Environmental Specialist",
+      "willBeFired": false,
+      "ip": "96.66.231.52"
+   },
+   {
+      "ssn": "828-79-4112",
+      "company": "Rooxo",
+      "jobTitle": "Web Developer I",
+      "willBeFired": false,
+      "ip": "0.133.186.128"
+   },
+   {
+      "ssn": "457-94-0838",
+      "company": "Youfeed",
+      "jobTitle": "Occupational Therapist",
+      "willBeFired": true,
+      "ip": "163.131.176.81"
+   },
+   {
+      "ssn": "875-88-1761",
+      "company": "Skiptube",
+      "jobTitle": "Systems Administrator IV",
+      "willBeFired": false,
+      "ip": "99.54.24.205"
+   },
+   {
+      "ssn": "852-57-5998",
+      "company": "Babbleblab",
+      "jobTitle": "Teacher",
+      "willBeFired": false,
+      "ip": "133.90.97.43"
+   },
+   {
+      "ssn": "790-86-0142",
+      "company": "Livetube",
+      "jobTitle": "Account Representative IV",
+      "willBeFired": false,
+      "ip": "248.66.150.243"
+   },
+   {
+      "ssn": "584-19-7255",
+      "company": "Realbuzz",
+      "jobTitle": "Executive Secretary",
+      "willBeFired": false,
+      "ip": "165.101.26.60"
+   },
+   {
+      "ssn": "281-96-9470",
+      "company": "Tambee",
+      "jobTitle": "Automation Specialist II",
+      "willBeFired": false,
+      "ip": "30.104.137.78"
+   },
+   {
+      "ssn": "349-42-0401",
+      "company": "Wikido",
+      "jobTitle": "Food Chemist",
+      "willBeFired": true,
+      "ip": "199.127.98.162"
+   },
+   {
+      "ssn": "820-66-4772",
+      "company": "Kwinu",
+      "jobTitle": "Account Representative III",
+      "willBeFired": false,
+      "ip": "136.195.32.103"
+   },
+   {
+      "ssn": "219-54-9426",
+      "company": "Yozio",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "151.152.142.204"
+   },
+   {
+      "ssn": "732-27-1922",
+      "company": "Browsecat",
+      "jobTitle": "Clinical Specialist",
+      "willBeFired": true,
+      "ip": "164.112.23.57"
+   },
+   {
+      "ssn": "568-68-1424",
+      "company": "Bluejam",
+      "jobTitle": "Web Designer II",
+      "willBeFired": false,
+      "ip": "214.195.1.31"
+   },
+   {
+      "ssn": "280-42-0729",
+      "company": "Avamm",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": false,
+      "ip": "206.47.223.103"
+   },
+   {
+      "ssn": "836-35-3903",
+      "company": "Flashspan",
+      "jobTitle": "VP Accounting",
+      "willBeFired": true,
+      "ip": "159.86.180.160"
+   },
+   {
+      "ssn": "228-25-2491",
+      "company": "Yadel",
+      "jobTitle": "Dental Hygienist",
+      "willBeFired": true,
+      "ip": "198.203.253.188"
+   },
+   {
+      "ssn": "202-40-3638",
+      "company": "Oloo",
+      "jobTitle": "Financial Advisor",
+      "willBeFired": false,
+      "ip": "52.40.169.90"
+   },
+   {
+      "ssn": "354-32-8662",
+      "company": "Jaxworks",
+      "jobTitle": "Physical Therapy Assistant",
+      "willBeFired": true,
+      "ip": "72.49.160.61"
+   },
+   {
+      "ssn": "295-54-7202",
+      "company": "Nlounge",
+      "jobTitle": "Associate Professor",
+      "willBeFired": false,
+      "ip": "193.110.21.237"
+   },
+   {
+      "ssn": "287-67-8985",
+      "company": "Yakidoo",
+      "jobTitle": "Environmental Tech",
+      "willBeFired": false,
+      "ip": "11.239.233.184"
+   },
+   {
+      "ssn": "272-01-6388",
+      "company": "Dynabox",
+      "jobTitle": "Product Engineer",
+      "willBeFired": false,
+      "ip": "202.93.80.156"
+   },
+   {
+      "ssn": "255-69-6738",
+      "company": "Linklinks",
+      "jobTitle": "Tax Accountant",
+      "willBeFired": true,
+      "ip": "94.158.194.170"
+   },
+   {
+      "ssn": "865-53-9937",
+      "company": "Demivee",
+      "jobTitle": "Chief Design Engineer",
+      "willBeFired": false,
+      "ip": "190.54.172.240"
+   },
+   {
+      "ssn": "167-85-8789",
+      "company": "Flipbug",
+      "jobTitle": "Staff Accountant I",
+      "willBeFired": false,
+      "ip": "163.171.74.213"
+   },
+   {
+      "ssn": "773-74-2875",
+      "company": "Thoughtbridge",
+      "jobTitle": "Structural Analysis Engineer",
+      "willBeFired": false,
+      "ip": "59.229.29.17"
+   },
+   {
+      "ssn": "242-36-0179",
+      "company": "Meedoo",
+      "jobTitle": "Data Coordiator",
+      "willBeFired": true,
+      "ip": "254.34.208.191"
+   },
+   {
+      "ssn": "642-89-6643",
+      "company": "Digitube",
+      "jobTitle": "Nurse",
+      "willBeFired": true,
+      "ip": "29.109.125.62"
+   },
+   {
+      "ssn": "681-76-7802",
+      "company": "Brainlounge",
+      "jobTitle": "Health Coach III",
+      "willBeFired": false,
+      "ip": "229.225.154.254"
+   },
+   {
+      "ssn": "277-39-7581",
+      "company": "Trudeo",
+      "jobTitle": "Nurse Practicioner",
+      "willBeFired": false,
+      "ip": "126.158.234.4"
+   },
+   {
+      "ssn": "839-73-1735",
+      "company": "Oodoo",
+      "jobTitle": "Chemical Engineer",
+      "willBeFired": false,
+      "ip": "96.106.32.175"
+   },
+   {
+      "ssn": "383-48-2249",
+      "company": "Buzzshare",
+      "jobTitle": "Programmer Analyst II",
+      "willBeFired": false,
+      "ip": "133.116.232.87"
+   },
+   {
+      "ssn": "577-58-2590",
+      "company": "Jaxworks",
+      "jobTitle": "Account Coordinator",
+      "willBeFired": true,
+      "ip": "71.69.61.124"
+   },
+   {
+      "ssn": "389-24-0124",
+      "company": "Eadel",
+      "jobTitle": "Financial Advisor",
+      "willBeFired": true,
+      "ip": "126.24.68.18"
+   },
+   {
+      "ssn": "866-74-5800",
+      "company": "Linktype",
+      "jobTitle": "Recruiting Manager",
+      "willBeFired": true,
+      "ip": "120.253.44.83"
+   },
+   {
+      "ssn": "311-47-8833",
+      "company": "Oyope",
+      "jobTitle": "Biostatistician I",
+      "willBeFired": false,
+      "ip": "91.170.173.82"
+   },
+   {
+      "ssn": "854-50-5017",
+      "company": "Miboo",
+      "jobTitle": "Paralegal",
+      "willBeFired": false,
+      "ip": "54.79.42.19"
+   }
+]
