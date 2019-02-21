@@ -1,0 +1,97 @@
+\documentclass{exam}
+
+\usepackage{amsmath}
+
+\usepackage{amssymb}
+
+\usepackage{graphicx}
+
+\usepackage{cite}
+\usepackage{color} 
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[linewidth=1pt]{mdframed}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\newcommand{\xx}{{\bf{x}}}
+\newcommand{\yy}{{\bf{y}}}
+\newcommand{\ww}{{\bf{w}}}
+\newcommand{\uu}{{\bf{u}}}
+
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{CS559: Machine Learning}{Name:        }{\textcolor{red}{Due: Feb. 13, 2019}}
+
+\title{Assignment 1}
+\date{}
+\begin{document}
+\maketitle
+\thispagestyle{headandfoot}
+
+\begin{center}
+  {\fbox{\parbox{5.5in}{\centering
+Homework assignments will be done individually: each student must hand in their own answers. Use of partial or entire solutions obtained from others or online is strictly prohibited. Electronic submission on Canvas is mandatory.}}}
+\end{center}
+\vspace{.5cm}
+\begin{questions}
+
+\question{\bf  Maximum Likelihood estimator} (10 points) Assuming data points are independent and identically distributed (i.i.d.), the probability of the data set given parameters: $\mu$ and $\sigma^2$ (the likelihood function):
+\begin{align}
+\nonumber P(\mathbf{x}|\mu,\sigma^2) = \prod_{n=1}^N\mathcal{N}(x_n|\mu,\sigma^2)
+\end{align}
+
+Please calculate the solution for $\mu$ and $\sigma^2$ using Maximum Likelihood (ML) estimator.
+
+
+\newpage
+\question{\bf Maximum Likelihood} (10 points) We assume there is a true function $f(\xx)$ and the target value is given by $y=f(x)+\epsilon$ where $\epsilon$ is a Gaussian distribution with mean $0$ and variance $\sigma^2$.
+Thus,
+$$p(y|x,w,\beta) =\mathcal{N}(y| f(x), \beta^{-1})$$
+
+where $\beta^{-1} = \sigma^2$.
+
+Assuming the data points are drawn independently from the distribution, we obtain the likelihood function:
+$$p(\mathbf{y}|\xx,w,\beta) = \prod_{n=1}^N \mathcal{N}(y_n|f(x),\beta^{-1})$$
+
+Please show that maximizing the likelihood function is equivalent to minimizing the sum-of-squares error function.
+
+
+\newpage
+\question{\bf  MAP estimator} (15 points) Given input values $\xx= (x_1,...,x_N)^T$ and their corresponding target values $\yy= (y_1,...,y_N)^T$, we estimate the target by using function $f(x,\ww)$ which is a polynomial curve. Assuming the target variables are drawn from Gaussian distribution:
+
+$$p(y|x, \ww,\beta) = \mathcal{N} (y | f(x,\ww), \beta^{-1})$$
+
+and  a prior Gaussian distribution for $\ww$:
+
+$$p(\ww|\alpha) = (\frac{\alpha}{2\pi})^{(M+1)/2} \exp(-\frac{\alpha}{2} \ww^T\ww)$$
+
+Please prove that maximum posterior (MAP) is equivalent to minimizing the regularized sum-of-squares error function. Note that the posterior distribution of $\ww$ is $p(\ww|\xx,\yy,\alpha,\beta)$. \textbf{Hint: use Bayes' theorem.}
+
+
+
+\newpage
+\question{\bf  Linear model} (20 points) Consider a linear model of the form:
+$$f(\xx,\ww) = w_0 + \sum_{i=1}^D w_i x_i$$
+together with a sum-of-squares error/loss function of the form:
+$$L_D(\ww) = \frac{1}{2} \sum_{n=1}^N \{f(\xx_n,\ww) - y_n\}^2$$
+Now suppose that Gaussian noise $\epsilon_i$ with zero mean and variance $\sigma^2$ is added independently to each of the input variables $x_i$. By making use of $\mathbb{E}[\epsilon_i]=0$ and $\mathbb{E}[\epsilon_i\epsilon_j]=\delta_{ij} \sigma^2$, show that minimizing $L_D$ averaged over the noise distribution is equivalent to minimizing the sum-of-squares error
+for noise-free input variables with the addition of a weight-decay regularization term, in which the bias parameter $w_0$ is omitted from the regularizer.
+
+\newpage
+\question{\bf  Linear regression} (45 points) Please choose \textbf{one} of the below problems. You will need to \textbf{submit your code}.
+
+{\bf a) \href{https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset}{UCI Machine Learning: Facebook Comment Volume Data Set }}
+
+Please apply both Lasso regression and Ridge regression algorithms on this dataset for predicting the number of comments in next H hrs (H is given in the feature).  You do not need to use all the features. Use K-fold cross validation and report the mean squared error (MSE) on the testing data. You need to write down every step in your experiment.
+
+{\bf a) \href{https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset}{UCI Machine Learning: Bike Sharing Data Set}}
+
+Please apply both Lasso regression and Ridge regression algorithms on this dataset for predicting the count of total rental bikes including both casual and registered.  You do not need to use all the features. Use K-fold cross validation and report the mean squared error (MSE) on the testing data. You need to write down every step in your experiment. 
+
+ 
+\end{questions}
+
+
+
+
+\end{document}

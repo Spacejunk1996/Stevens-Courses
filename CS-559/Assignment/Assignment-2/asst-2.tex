@@ -1,0 +1,62 @@
+\documentclass{exam}
+
+\usepackage{amsmath}
+
+\usepackage{amssymb}
+
+\usepackage{graphicx}
+
+\usepackage{cite}
+\usepackage{color} 
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[linewidth=1pt]{mdframed}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\newcommand{\xx}{{\bf{x}}}
+\newcommand{\yy}{{\bf{y}}}
+\newcommand{\ww}{{\bf{w}}}
+
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{CS559: Machine Learning}{Name:        }{\textcolor{red}{Due: Mar. 1, 2019}}
+
+\title{Assignment 2}
+\date{}
+\begin{document}
+\maketitle
+\thispagestyle{headandfoot}
+
+\begin{center}
+  {\fbox{\parbox{5.5in}{\centering
+Homework assignments will be done individually: each student must hand in their own answers. Use of partial or entire solutions obtained from others or online is strictly prohibited. Electronic submission on Canvas is mandatory.}}}
+\end{center}
+\vspace{.5cm}
+\begin{questions}
+
+\question{\bf  Linear Discriminant Analysis} (20 points) Please download the \href{https://archive.ics.uci.edu/ml/datasets/Iris}{Iris data set} from the UCI Machine Learning repository and implement Linear Discriminant Analysis for each pair of the classes and report your results. Note that there are three (3) class labels in this data set. Write down each step of your solution. \textbf{Do not use any package/tool}. 
+\vspace{5em}
+ 
+\question{\bf Generative methods vs Discriminative methods} (60 points) Please download the \href{https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+\%28Diagnostic\%29}{breast cancer data set} from UCI Machine Learning repository. \textbf{Do not use any package/tool}. 
+\begin{enumerate}
+\item Implement a Logistic regression classifier with ML estimator using Stochastic gradient descent and Mini-Batch gradient descent algorithms. Use cross-validation for evaluation and report the recall, precision, and accuracy on malignant class prediction (class label malignant is positive). Write down each step of your solution.
+\item Implement a probabilistic generative model for this problem. Use cross-validation for evaluation and report the recall, precision, and accuracy on malignant class prediction (class label malignant is positive). Write down each step of your solution.
+\end{enumerate}
+\vspace{5em}
+
+\question{\bf  Naive Bayes} (10 points) From Project Gutenberg, we downloaded two files: The Adventures of Sherlock Holmes by Arthur Conan Doyle (pg1661.txt) and The Complete Works of Jane Austen(pg31100.txt). Please develop a multinomial Naive Bayes Classifier that will learn to classify the authors from a snippet of text into: Conan Doyle or Jane Austen. Report the recall, precision, and accuracy  on your testing data. Write down each step of your solution. \textbf{Do not use any package/tool}. 
+
+\vspace{5em}
+
+\question{\bf  Linear classification} (10 points) Please prove that 1) the multinomial naive Bayes classifier essentially translates to a linear classifier. 2) Logistic regression is a linear classifier.
+\vspace{5em}
+
+
+
+
+\end{questions}
+
+
+
+
+\end{document}
