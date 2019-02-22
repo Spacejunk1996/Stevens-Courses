@@ -80,6 +80,7 @@ const firstNameMetrics = async function firstNameMetrics() {
     result.totalConsonants = totalConsonants;
     result.longestName = longestName;
     result.shortestName = shortestName;
+    console.log(result);
     return result;
 }
 
@@ -88,3 +89,4 @@ module.exports = {
     lexIndex,
     firstNameMetrics
 }
+firstNameMetrics()
