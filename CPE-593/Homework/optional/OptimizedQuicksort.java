@@ -2,6 +2,7 @@ import java.util.*;
 import java.time.*;
 import java.lang.*;
 
+
 /*
 	output should be:
     k = 2  took: 46 ms;
