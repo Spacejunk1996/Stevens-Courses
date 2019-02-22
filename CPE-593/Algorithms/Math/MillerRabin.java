@@ -72,7 +72,7 @@ public class MillerRabin
         /** Accept number of iterations **/
         // System.out.println("\nEnter number of iterations");
         // int k = scan.nextInt();
-        int k = 89;
+        int k = 1;
         /** check if prime **/
         boolean prime = mr.isPrime(num, k);
         if (prime)
