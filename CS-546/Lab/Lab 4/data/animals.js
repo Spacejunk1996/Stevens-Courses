@@ -10,6 +10,8 @@ const getAnimalById = async function getAnimalById(id) {
 }
 
 const create = async function create(name, animalType) {
+    if (!name) throw "You must provide a name to create";
+    if (!animalType) throw "You must proveid an animalType to create";
     // console.log("begain to create");
     const animalsCollection = await animals();
     let anim = {
@@ -34,6 +36,7 @@ const getAll = async function getAll() {
 }
 
 const get = async function get(id) {
+    if (!id) throw "You must provide an id for serch for"; 
     const animalsCollection = await animals();
     const animalsid = await animalsCollection.findOne({_id: id});
     if (animalsid == null) throw "No animal with that id";
