@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Zixu Jiang 10441324",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
 }
