@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrowArray",
+            "request": "launch",
+            "mainClass": "GrowArray"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntArrayList",
+            "request": "launch",
+            "mainClass": "IntArrayList"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkList",
+            "request": "launch",
+            "mainClass": "LinkList"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hw3b",
+            "request": "launch",
+            "mainClass": "hw3b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-web",
+            "request": "launch",
+            "mainClass": "web"
+        }
+    ]
+}

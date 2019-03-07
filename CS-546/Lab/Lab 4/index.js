@@ -22,7 +22,7 @@ const main = async () => {
     console.log(allanimals);
 
     const db = await connection();
-    // await db.serverConfig.close();
+    await db.serverConfig.close();
     
     console.log("Done!");
     
